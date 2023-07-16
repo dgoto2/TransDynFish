@@ -1,0 +1,39 @@
+subregion_label,subregion_species,stock.id
+Norwegian-Barents Seas (SA 1-2),Northeast Arctic_cod,cod.27.12
+"North Sea (SA 4, D 7.d, SD 20)",North Sea_cod,cod.27.47d20
+Baltic Sea (SD 22-24),Baltic Sea_cod,cod.27.22-24
+Faroes (SD 5.b),Faroe Plateau_cod,cod-farp
+Icelandic waters (D 5.a),Icelandic_cod,cod.27.5a
+Celtic Seas (D 6.a),Celtic Sea 6.d._cod,cod.27.6a
+Celtic Seas (D 7.a),Irish Sea_cod,cod.27.7a
+Celtic Seas (D 7.e-k),Celtic Sea_cod,cod.27.7e-k
+Bay of Biscay (D 8.c and 9.a),Bay of Biscay_four-spot megrim,ldb.27.8c9a
+Norwegian-Barents Seas (SA 1-2),Northeast Arctic_haddock,had-arct
+"North Sea (SA 4, D 6.a, SD 20)",North Sea_haddock,had.27.46a20
+Faroes (SD 5.b),Faroe Plateau_haddock,had-faro
+Icelandic waters (D 5.a),Icelandic_haddock,had.27.5a
+Celtic Seas (D 6.b),Rockall_haddock,had-rock
+Celtic Seas (D 7.b-k),Celtic Sea_haddock,had.27.7b-k
+Baltic Sea (SD 25-29 and 32),Baltic Sea_herring,her.27.25-2932
+Baltic Sea (SD 28.1),Gulf of Riga_herring,her.27.28
+Bay of Biscay (D 8.c and 9.a),Bay of Biscay_megrim,meg.27.8c9a
+North Sea (D 6.d),North Sea 7.d._plaice,ple.27.7d
+"North Sea (SA 4, SD 20)",North Sea_plaice,ple.27.420
+Baltic Sea (SD 21-23),Baltic Sea_plaice,ple.27.7e
+Celtic Seas (D 7.a),Irish Sea_plaice,ple.27.7a
+Celtic Seas (D 7.e),Western Channel_plaice,ple-echw
+"North Sea (SA 4 and 6, D 3.a)",North Sea_saithe,pok.27.3a46
+Faroes (SD 5.b),Faroe Plateau_saithe,pok.27.5b
+Icelandic waters (D 5.a),Icelandic_saithe,pok.27.5a
+Norwegian-Barents Seas (SA 1-2),Northeast Arctic_saithe,pok.27.1-2
+Baltic Sea (SD 20-24),Baltic Sea_sole,sol.27.20-24
+Bay of Biscay (D 8.c and 9.a),Bay of Biscay_sole,sol-bisc
+Celtic Seas (D 7.a),Irish Sea_sole,sol.27.7a
+Celtic Seas (D 7.e),Celtic Sea 7.e._sole,sol.27.7e
+Celtic Seas (D 7.f and 7.g),Celtic Sea 7.f.g._sole,sol.27.7fg
+Baltic Sea (SD 22-33),Baltic Sea_sprat,spr.27.22-32
+Icelandic waters (D 5.a),Icelandic_herring,her-vasu
+North Sea (D 3.a),North Sea_turbot,tur.27.3a
+"North Sea (SA 4, D 7.d)",North Sea_whiting,whg.27.47d
+Celtic Seas (D 6.a),Celtic Sea 27.6.a._whiting,whg.27.6a
+Celtic Seas (D 7.a),Celtic Sea 7.a._whiting,whg-iris

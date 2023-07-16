@@ -1,0 +1,1609 @@
+year,ecoregion,subregion,species,subregion_species,fbar,fmsy,fbar_fmsy,ssb,bpa,ssb_bpa
+1946,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.213,0.4,0.53250,990981.0,460000,2.15400
+1947,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.315,0.4,0.78750,1021872.0,460000,2.22100
+1948,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.314,0.4,0.78500,836996.0,460000,1.82000
+1949,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.364,0.4,0.91000,624616.0,460000,1.35800
+1950,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.375,0.4,0.93750,561981.0,460000,1.22200
+1951,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.426,0.4,1.06500,510901.0,460000,1.11100
+1952,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.52,0.4,1.30000,499119.0,460000,1.08500
+1953,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.395,0.4,0.98750,395821.0,460000,0.86000
+1954,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.416,0.4,1.04000,409596.0,460000,0.89000
+1955,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.502,0.4,1.25500,331508.0,460000,0.72100
+1956,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.613,0.4,1.53250,284260.0,460000,0.61800
+1957,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.525,0.4,1.31250,206864.0,460000,0.45000
+1958,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.527,0.4,1.31750,204204.0,460000,0.44400
+1959,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.532,0.4,1.33000,442805.0,460000,0.96300
+1960,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.512,0.4,1.28000,402759.0,460000,0.87600
+1961,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.647,0.4,1.61750,406019.0,460000,0.88300
+1962,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.758,0.4,1.89500,320176.0,460000,0.69600
+1963,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.874,0.4,2.18500,214506.0,460000,0.46600
+1964,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.675,0.4,1.68750,192073.0,460000,0.41800
+1965,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.555,0.4,1.38750,106493.0,460000,0.23200
+1966,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.506,0.4,1.26500,121933.0,460000,0.26500
+1967,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.537,0.4,1.34250,133557.0,460000,0.29000
+1968,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.578,0.4,1.44500,228964.0,460000,0.49800
+1969,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.76,0.4,1.90000,151405.0,460000,0.32900
+1970,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.697,0.4,1.74250,230733.0,460000,0.50200
+1971,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.585,0.4,1.46250,319399.0,460000,0.69400
+1972,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.691,0.4,1.72750,365204.0,460000,0.79400
+1973,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.607,0.4,1.51750,324226.0,460000,0.70500
+1974,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.635,0.4,1.58750,159573.0,460000,0.34700
+1975,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.635,0.4,1.58750,130599.0,460000,0.28400
+1976,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.659,0.4,1.64750,167889.0,460000,0.36500
+1977,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.806,0.4,2.01500,352361.0,460000,0.76600
+1978,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.972,0.4,2.43000,234779.0,460000,0.51000
+1979,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.781,0.4,1.95250,165107.0,460000,0.35900
+1980,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.776,0.4,1.94000,102610.0,460000,0.22300
+1981,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.764,0.4,1.91000,151761.0,460000,0.33000
+1982,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.815,0.4,2.03750,311677.0,460000,0.67800
+1983,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.777,0.4,1.94250,282330.0,460000,0.61400
+1984,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.888,0.4,2.22000,228215.0,460000,0.49600
+1985,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.789,0.4,1.97250,187689.0,460000,0.40800
+1986,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.903,0.4,2.25750,162281.0,460000,0.35300
+1987,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,1.017,0.4,2.54250,110474.0,460000,0.24000
+1988,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.952,0.4,2.38000,179824.0,460000,0.39100
+1989,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.649,0.4,1.62250,236593.0,460000,0.51400
+1990,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.368,0.4,0.92000,333958.0,460000,0.72600
+1991,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.316,0.4,0.79000,711318.0,460000,1.54600
+1992,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.448,0.4,1.12000,912173.0,460000,1.98300
+1993,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.577,0.4,1.44250,777338.0,460000,1.69000
+1994,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.796,0.4,1.99000,591837.0,460000,1.28700
+1995,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.779,0.4,1.94750,523800.0,460000,1.13900
+1996,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.764,0.4,1.91000,548513.0,460000,1.19200
+1997,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.944,0.4,2.36000,546605.0,460000,1.18800
+1998,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.96,0.4,2.40000,381012.0,460000,0.82800
+1999,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.959,0.4,2.39750,285386.0,460000,0.62000
+2000,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.822,0.4,2.05500,239875.0,460000,0.52100
+2001,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.706,0.4,1.76500,364038.0,460000,0.79100
+2002,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.653,0.4,1.63250,507252.0,460000,1.10300
+2003,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.572,0.4,1.43000,597729.0,460000,1.29900
+2004,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.714,0.4,1.78500,714855.0,460000,1.55400
+2005,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.713,0.4,1.78250,621686.0,460000,1.35100
+2006,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.65,0.4,1.62500,609655.0,460000,1.32500
+2007,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.443,0.4,1.10750,664380.0,460000,1.44400
+2008,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.313,0.4,0.78250,704486.0,460000,1.53100
+2009,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.267,0.4,0.66750,1111746.0,460000,2.41700
+2010,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.272,0.4,0.68000,1413785.0,460000,3.07300
+2011,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.262,0.4,0.65500,2040520.0,460000,4.43600
+2012,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.237,0.4,0.59250,2371480.0,460000,5.15500
+2013,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.266,0.4,0.66500,2692927.0,460000,5.85400
+2014,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.296,0.4,0.74000,2563812.0,460000,5.57400
+2015,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.32,0.4,0.80000,2133663.0,460000,4.63800
+2016,Northeast Arctic,Northeast Arctic,cod,Northeast Arctic_cod,0.334,0.4,0.83500,1769635.0,460000,3.84700
+1950,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.74,0.35,2.11429,209943.0,80000,2.62400
+1951,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.69,0.35,1.97143,126789.0,80000,1.58500
+1952,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.7,0.35,2.00000,101855.0,80000,1.27300
+1953,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.54,0.35,1.54286,120005.0,80000,1.50000
+1954,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.48,0.35,1.37143,169415.0,80000,2.11800
+1955,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.41,0.35,1.17143,269329.0,80000,3.36700
+1956,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.44,0.35,1.25714,327556.0,80000,4.09400
+1957,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.41,0.35,1.17143,256400.0,80000,3.20500
+1958,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.49,0.35,1.40000,186736.0,80000,2.33400
+1959,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.45,0.35,1.28571,130789.0,80000,1.63500
+1960,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.56,0.35,1.60000,117263.0,80000,1.46600
+1961,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.66,0.35,1.88571,125148.0,80000,1.56400
+1962,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.75,0.35,2.14286,122920.0,80000,1.53700
+1963,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.73,0.35,2.08571,96457.0,80000,1.20600
+1964,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.66,0.35,1.88571,86438.0,80000,1.08000
+1965,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.56,0.35,1.60000,100398.0,80000,1.25500
+1966,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.54,0.35,1.54286,133685.0,80000,1.67100
+1967,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.46,0.35,1.31429,145200.0,80000,1.81500
+1968,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.48,0.35,1.37143,159840.0,80000,1.99800
+1969,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.41,0.35,1.17143,160836.0,80000,2.01000
+1970,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.39,0.35,1.11429,149677.0,80000,1.87100
+1971,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.34,0.35,0.97143,122792.0,80000,1.53500
+1972,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.62,0.35,1.77143,122401.0,80000,1.53000
+1973,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.51,0.35,1.45714,125698.0,80000,1.57100
+1974,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.56,0.35,1.60000,166497.0,80000,2.08100
+1975,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.51,0.35,1.45714,190369.0,80000,2.38000
+1976,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.72,0.35,2.05714,183273.0,80000,2.29100
+1977,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.74,0.35,2.11429,117033.0,80000,1.46300
+1978,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.62,0.35,1.77143,78743.0,80000,0.98400
+1979,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.57,0.35,1.62857,61859.0,80000,0.77300
+1980,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.46,0.35,1.31429,62008.0,80000,0.77500
+1981,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.41,0.35,1.17143,71050.0,80000,0.88800
+1982,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.36,0.35,1.02857,67915.0,80000,0.84900
+1983,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.36,0.35,1.02857,59370.0,80000,0.74200
+1984,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.3,0.35,0.85714,53097.0,80000,0.66400
+1985,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.4,0.35,1.14286,49702.0,80000,0.62100
+1986,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.55,0.35,1.57143,53934.0,80000,0.67400
+1987,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.66,0.35,1.88571,71203.0,80000,0.89000
+1988,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.53,0.35,1.51429,76765.0,80000,0.96000
+1989,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.3,0.35,0.85714,82916.0,80000,1.03600
+1990,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.23,0.35,0.65714,88561.0,80000,1.10700
+1991,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.25,0.35,0.71429,100710.0,80000,1.25900
+1992,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.29,0.35,0.82857,114864.0,80000,1.43600
+1993,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.3,0.35,0.85714,132379.0,80000,1.65500
+1994,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.35,0.35,1.00000,168189.0,80000,2.10200
+1995,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.33,0.35,0.94286,215789.0,80000,2.69700
+1996,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.4,0.35,1.14286,264686.0,80000,3.30900
+1997,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.49,0.35,1.40000,213340.0,80000,2.66700
+1998,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.48,0.35,1.37143,152132.0,80000,1.90200
+1999,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.47,0.35,1.34286,111677.0,80000,1.39600
+2000,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.37,0.35,1.05714,101294.0,80000,1.26600
+2001,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.36,0.35,1.02857,107078.0,80000,1.33800
+2002,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.33,0.35,0.94286,134151.0,80000,1.67700
+2003,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.4,0.35,1.14286,179813.0,80000,2.24800
+2004,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.41,0.35,1.17143,185071.0,80000,2.31300
+2005,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.43,0.35,1.22857,185096.0,80000,2.31400
+2006,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.38,0.35,1.08571,177148.0,80000,2.21400
+2007,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.35,0.35,1.00000,204372.0,80000,2.55500
+2008,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.29,0.35,0.82857,219350.0,80000,2.74200
+2009,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.25,0.35,0.71429,258731.0,80000,3.23400
+2010,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.23,0.35,0.65714,368654.0,80000,4.60800
+2011,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.22,0.35,0.62857,487852.0,80000,6.09800
+2012,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.2,0.35,0.57143,588932.0,80000,7.36200
+2013,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.15,0.35,0.42857,651494.0,80000,8.14400
+2014,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.15,0.35,0.42857,675563.0,80000,8.44500
+2015,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.17,0.35,0.48571,656269.0,80000,8.20300
+2016,Northeast Arctic,Northeast Arctic,haddock,Northeast Arctic_haddock,0.2,0.35,0.57143,675068.0,80000,8.43800
+1960,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.2755,0.35,0.78714,NA,220000,NA
+1961,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.233,0.35,0.66571,NA,220000,NA
+1962,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.23275,0.35,0.66500,NA,220000,NA
+1963,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.2465,0.35,0.70429,NA,220000,NA
+1964,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.2835,0.35,0.81000,NA,220000,NA
+1965,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.2895,0.35,0.82714,NA,220000,NA
+1966,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.29825,0.35,0.85214,NA,220000,NA
+1967,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.27825,0.35,0.79500,NA,220000,NA
+1968,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.2015,0.35,0.57571,NA,220000,NA
+1969,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.1945,0.35,0.55571,NA,220000,NA
+1970,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.3085,0.35,0.88143,567502.0,220000,2.58000
+1971,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.32575,0.35,0.93071,555709.0,220000,2.52600
+1972,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.32075,0.35,0.91643,537670.0,220000,2.44400
+1973,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.3575,0.35,1.02143,537132.0,220000,2.44200
+1974,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.47975,0.35,1.37071,492870.0,220000,2.24000
+1975,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.5385,0.35,1.53857,399113.0,220000,1.81400
+1976,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.5715,0.35,1.63286,282377.0,220000,1.28400
+1977,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.49975,0.35,1.42786,210239.0,220000,0.95600
+1978,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.5515,0.35,1.57571,189662.0,220000,0.86200
+1979,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.58575,0.35,1.67357,170928.0,220000,0.77700
+1980,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.564,0.35,1.61143,151146.0,220000,0.68700
+1981,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.559,0.35,1.59714,154817.0,220000,0.70400
+1982,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.55575,0.35,1.58786,135537.0,220000,0.61600
+1983,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.602,0.35,1.72000,161781.0,220000,0.73500
+1984,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.70975,0.35,2.02786,145947.0,220000,0.66300
+1985,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.6345,0.35,1.81286,111525.0,220000,0.50700
+1986,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.54775,0.35,1.56500,84036.0,220000,0.38200
+1987,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.6215,0.35,1.77571,71826.0,220000,0.32600
+1988,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.6075,0.35,1.73571,86163.0,220000,0.39200
+1989,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.486,0.35,1.38857,100007.0,220000,0.45500
+1990,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.54625,0.35,1.56071,118066.0,220000,0.53700
+1991,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.50775,0.35,1.45071,114577.0,220000,0.52100
+1992,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.60375,0.35,1.72500,95130.0,220000,0.43200
+1993,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.53325,0.35,1.52357,97343.0,220000,0.44200
+1994,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.479,0.35,1.36857,148153.0,220000,0.67300
+1995,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.374,0.35,1.06857,196222.0,220000,0.89200
+1996,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.36125,0.35,1.03214,244019.0,220000,1.10900
+1997,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.25625,0.35,0.73214,243531.0,220000,1.10700
+1998,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.25525,0.35,0.72929,292436.0,220000,1.32900
+1999,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.25725,0.35,0.73500,308045.0,220000,1.40000
+2000,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.2295,0.35,0.65571,367692.0,220000,1.67100
+2001,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.2025,0.35,0.57857,371759.0,220000,1.69000
+2002,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.197,0.35,0.56286,439327.0,220000,1.99700
+2003,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.18925,0.35,0.54071,425917.0,220000,1.93600
+2004,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.1795,0.35,0.51286,508897.0,220000,2.31300
+2005,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.20975,0.35,0.59929,591845.0,220000,2.69000
+2006,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.24725,0.35,0.70643,527551.0,220000,2.39800
+2007,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.255,0.35,0.72857,544705.0,220000,2.47600
+2008,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.3175,0.35,0.90714,473071.0,220000,2.15000
+2009,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.339,0.35,0.96857,365492.0,220000,1.66100
+2010,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.37425,0.35,1.06929,331705.0,220000,1.50800
+2011,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.36925,0.35,1.05500,297747.0,220000,1.35300
+2012,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.3415,0.35,0.97571,307737.0,220000,1.39900
+2013,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.27375,0.35,0.78214,333367.0,220000,1.51500
+2014,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.23875,0.35,0.68214,383080.0,220000,1.74100
+2015,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.22675,0.35,0.64786,407583.0,220000,1.85300
+2016,Northeast Arctic,Northeast Arctic,saithe,Northeast Arctic_saithe,0.2275,0.35,0.65000,469301.0,220000,2.13300
+1963,North Sea,North Sea,cod,North Sea_cod,0.475,0.35,1.35714,152665.0,150000,1.01800
+1964,North Sea,North Sea,cod,North Sea_cod,0.514666667,0.35,1.47048,164226.0,150000,1.09500
+1965,North Sea,North Sea,cod,North Sea_cod,0.564666667,0.35,1.61333,200186.0,150000,1.33500
+1966,North Sea,North Sea,cod,North Sea_cod,0.571333333,0.35,1.63238,222348.0,150000,1.48200
+1967,North Sea,North Sea,cod,North Sea_cod,0.607,0.35,1.73429,251954.0,150000,1.68000
+1968,North Sea,North Sea,cod,North Sea_cod,0.642333333,0.35,1.83524,263024.0,150000,1.75300
+1969,North Sea,North Sea,cod,North Sea_cod,0.612666667,0.35,1.75048,259367.0,150000,1.72900
+1970,North Sea,North Sea,cod,North Sea_cod,0.650666667,0.35,1.85905,270493.0,150000,1.80300
+1971,North Sea,North Sea,cod,North Sea_cod,0.735333333,0.35,2.10095,274855.0,150000,1.83200
+1972,North Sea,North Sea,cod,North Sea_cod,0.794333333,0.35,2.26952,244263.0,150000,1.62800
+1973,North Sea,North Sea,cod,North Sea_cod,0.780333333,0.35,2.22952,215130.0,150000,1.43400
+1974,North Sea,North Sea,cod,North Sea_cod,0.748333333,0.35,2.13810,230499.0,150000,1.53700
+1975,North Sea,North Sea,cod,North Sea_cod,0.804333333,0.35,2.29810,207939.0,150000,1.38600
+1976,North Sea,North Sea,cod,North Sea_cod,0.858666667,0.35,2.45333,177194.0,150000,1.18100
+1977,North Sea,North Sea,cod,North Sea_cod,0.820666667,0.35,2.34476,150091.0,150000,1.00100
+1978,North Sea,North Sea,cod,North Sea_cod,0.903333333,0.35,2.58095,149492.0,150000,0.99700
+1979,North Sea,North Sea,cod,North Sea_cod,0.85,0.35,2.42857,147561.0,150000,0.98400
+1980,North Sea,North Sea,cod,North Sea_cod,0.923,0.35,2.63714,161135.0,150000,1.07400
+1981,North Sea,North Sea,cod,North Sea_cod,0.939333333,0.35,2.68381,168890.0,150000,1.12600
+1982,North Sea,North Sea,cod,North Sea_cod,1.045666667,0.35,2.98762,168384.0,150000,1.12300
+1983,North Sea,North Sea,cod,North Sea_cod,1.042,0.35,2.97714,137861.0,150000,0.91900
+1984,North Sea,North Sea,cod,North Sea_cod,0.980666667,0.35,2.80190,119970.0,150000,0.80000
+1985,North Sea,North Sea,cod,North Sea_cod,0.946,0.35,2.70286,118777.0,150000,0.79200
+1986,North Sea,North Sea,cod,North Sea_cod,0.970666667,0.35,2.77333,109426.0,150000,0.73000
+1987,North Sea,North Sea,cod,North Sea_cod,0.981333333,0.35,2.80381,113210.0,150000,0.75500
+1988,North Sea,North Sea,cod,North Sea_cod,1,0.35,2.85714,111413.0,150000,0.74300
+1989,North Sea,North Sea,cod,North Sea_cod,1.016666667,0.35,2.90476,103363.0,150000,0.68900
+1990,North Sea,North Sea,cod,North Sea_cod,0.948,0.35,2.70857,92503.0,150000,0.61700
+1991,North Sea,North Sea,cod,North Sea_cod,0.938,0.35,2.68000,90219.0,150000,0.60100
+1992,North Sea,North Sea,cod,North Sea_cod,0.929,0.35,2.65429,86250.0,150000,0.57500
+1993,North Sea,North Sea,cod,North Sea_cod,0.943333333,0.35,2.69524,89054.0,150000,0.59400
+1994,North Sea,North Sea,cod,North Sea_cod,0.962333333,0.35,2.74952,94940.0,150000,0.63300
+1995,North Sea,North Sea,cod,North Sea_cod,1.003,0.35,2.86571,107474.0,150000,0.71600
+1996,North Sea,North Sea,cod,North Sea_cod,1.006666667,0.35,2.87619,107259.0,150000,0.71500
+1997,North Sea,North Sea,cod,North Sea_cod,0.982333333,0.35,2.80667,96568.0,150000,0.64400
+1998,North Sea,North Sea,cod,North Sea_cod,1.011333333,0.35,2.88952,92689.0,150000,0.61800
+1999,North Sea,North Sea,cod,North Sea_cod,1.072666667,0.35,3.06476,83784.0,150000,0.55900
+2000,North Sea,North Sea,cod,North Sea_cod,1.074,0.35,3.06857,64926.0,150000,0.43300
+2001,North Sea,North Sea,cod,North Sea_cod,1.001666667,0.35,2.86190,61145.0,150000,0.40800
+2002,North Sea,North Sea,cod,North Sea_cod,0.954666667,0.35,2.72762,56162.0,150000,0.37400
+2003,North Sea,North Sea,cod,North Sea_cod,0.942666667,0.35,2.69333,58454.0,150000,0.39000
+2004,North Sea,North Sea,cod,North Sea_cod,0.9,0.35,2.57143,46397.0,150000,0.30900
+2005,North Sea,North Sea,cod,North Sea_cod,0.837666667,0.35,2.39333,49021.0,150000,0.32700
+2006,North Sea,North Sea,cod,North Sea_cod,0.753,0.35,2.15143,43739.0,150000,0.29200
+2007,North Sea,North Sea,cod,North Sea_cod,0.696666667,0.35,1.99048,76191.0,150000,0.50800
+2008,North Sea,North Sea,cod,North Sea_cod,0.662333333,0.35,1.89238,82619.0,150000,0.55100
+2009,North Sea,North Sea,cod,North Sea_cod,0.652,0.35,1.86286,90853.0,150000,0.60600
+2010,North Sea,North Sea,cod,North Sea_cod,0.569,0.35,1.62571,91126.0,150000,0.60800
+2011,North Sea,North Sea,cod,North Sea_cod,0.468333333,0.35,1.33810,100609.0,150000,0.67100
+2012,North Sea,North Sea,cod,North Sea_cod,0.428666667,0.35,1.22476,99211.0,150000,0.66100
+2013,North Sea,North Sea,cod,North Sea_cod,0.415333333,0.35,1.18667,107689.0,150000,0.71800
+2014,North Sea,North Sea,cod,North Sea_cod,0.41,0.35,1.17143,115960.0,150000,0.77300
+2015,North Sea,North Sea,cod,North Sea_cod,0.385666667,0.35,1.10190,134323.0,150000,0.89500
+2016,North Sea,North Sea,cod,North Sea_cod,0.351666667,0.35,1.00476,139804.0,150000,0.93200
+1972,North Sea,North Sea,haddock,North Sea_haddock,0.857,0.31,2.76452,294731.0,132000,2.23300
+1973,North Sea,North Sea,haddock,North Sea_haddock,0.776333333,0.31,2.50430,276668.0,132000,2.09600
+1974,North Sea,North Sea,haddock,North Sea_haddock,0.722,0.31,2.32903,329950.0,132000,2.50000
+1975,North Sea,North Sea,haddock,North Sea_haddock,0.849,0.31,2.73871,160999.0,132000,1.22000
+1976,North Sea,North Sea,haddock,North Sea_haddock,0.792666667,0.31,2.55699,196556.0,132000,1.48900
+1977,North Sea,North Sea,haddock,North Sea_haddock,0.803333333,0.31,2.59140,351894.0,132000,2.66600
+1978,North Sea,North Sea,haddock,North Sea_haddock,0.891666667,0.31,2.87634,158997.0,132000,1.20500
+1979,North Sea,North Sea,haddock,North Sea_haddock,0.912666667,0.31,2.94409,93694.0,132000,0.71000
+1980,North Sea,North Sea,haddock,North Sea_haddock,0.881666667,0.31,2.84409,103231.0,132000,0.78200
+1981,North Sea,North Sea,haddock,North Sea_haddock,0.666,0.31,2.14839,192964.0,132000,1.46200
+1982,North Sea,North Sea,haddock,North Sea_haddock,0.551,0.31,1.77742,432753.0,132000,3.27800
+1983,North Sea,North Sea,haddock,North Sea_haddock,0.71,0.31,2.29032,294743.0,132000,2.23300
+1984,North Sea,North Sea,haddock,North Sea_haddock,0.830666667,0.31,2.67957,238229.0,132000,1.80500
+1985,North Sea,North Sea,haddock,North Sea_haddock,0.785666667,0.31,2.53441,168006.0,132000,1.27300
+1986,North Sea,North Sea,haddock,North Sea_haddock,0.885,0.31,2.85484,289540.0,132000,2.19300
+1987,North Sea,North Sea,haddock,North Sea_haddock,0.887666667,0.31,2.86344,163286.0,132000,1.23700
+1988,North Sea,North Sea,haddock,North Sea_haddock,0.939,0.31,3.02903,126846.0,132000,0.96100
+1989,North Sea,North Sea,haddock,North Sea_haddock,0.887333333,0.31,2.86237,178319.0,132000,1.35100
+1990,North Sea,North Sea,haddock,North Sea_haddock,0.884,0.31,2.85161,85305.0,132000,0.64600
+1991,North Sea,North Sea,haddock,North Sea_haddock,0.872333333,0.31,2.81398,52413.0,132000,0.39700
+1992,North Sea,North Sea,haddock,North Sea_haddock,0.873,0.31,2.81613,55976.0,132000,0.42400
+1993,North Sea,North Sea,haddock,North Sea_haddock,0.930333333,0.31,3.00108,119000.0,132000,0.90200
+1994,North Sea,North Sea,haddock,North Sea_haddock,0.908666667,0.31,2.93118,139202.0,132000,1.05500
+1995,North Sea,North Sea,haddock,North Sea_haddock,0.818666667,0.31,2.64086,197776.0,132000,1.49800
+1996,North Sea,North Sea,haddock,North Sea_haddock,0.806,0.31,2.60000,124839.0,132000,0.94600
+1997,North Sea,North Sea,haddock,North Sea_haddock,0.628,0.31,2.02581,252753.0,132000,1.91500
+1998,North Sea,North Sea,haddock,North Sea_haddock,0.736333333,0.31,2.37527,182511.0,132000,1.38300
+1999,North Sea,North Sea,haddock,North Sea_haddock,0.828,0.31,2.67097,141479.0,132000,1.07200
+2000,North Sea,North Sea,haddock,North Sea_haddock,0.902333333,0.31,2.91075,90949.0,132000,0.68900
+2001,North Sea,North Sea,haddock,North Sea_haddock,0.619333333,0.31,1.99785,60830.0,132000,0.46100
+2002,North Sea,North Sea,haddock,North Sea_haddock,0.393,0.31,1.26774,518942.0,132000,3.93100
+2003,North Sea,North Sea,haddock,North Sea_haddock,0.248666667,0.31,0.80215,445025.0,132000,3.37100
+2004,North Sea,North Sea,haddock,North Sea_haddock,0.248,0.31,0.80000,306241.0,132000,2.32000
+2005,North Sea,North Sea,haddock,North Sea_haddock,0.309,0.31,0.99677,227102.0,132000,1.72000
+2006,North Sea,North Sea,haddock,North Sea_haddock,0.511,0.31,1.64839,157195.0,132000,1.19100
+2007,North Sea,North Sea,haddock,North Sea_haddock,0.431333333,0.31,1.39140,128666.0,132000,0.97500
+2008,North Sea,North Sea,haddock,North Sea_haddock,0.253666667,0.31,0.81828,272277.0,132000,2.06300
+2009,North Sea,North Sea,haddock,North Sea_haddock,0.199,0.31,0.64194,225693.0,132000,1.71000
+2010,North Sea,North Sea,haddock,North Sea_haddock,0.211,0.31,0.68065,210432.0,132000,1.59400
+2011,North Sea,North Sea,haddock,North Sea_haddock,0.303333333,0.31,0.97849,151515.0,132000,1.14800
+2012,North Sea,North Sea,haddock,North Sea_haddock,0.176333333,0.31,0.56882,326543.0,132000,2.47400
+2013,North Sea,North Sea,haddock,North Sea_haddock,0.186666667,0.31,0.60215,258617.0,132000,1.95900
+2014,North Sea,North Sea,haddock,North Sea_haddock,0.304666667,0.31,0.98280,181098.0,132000,1.37200
+2015,North Sea,North Sea,haddock,North Sea_haddock,0.398333333,0.31,1.28495,142921.0,132000,1.08300
+2016,North Sea,North Sea,haddock,North Sea_haddock,0.283666667,0.31,0.91505,122886.0,132000,0.93100
+1967,North Sea,North Sea,saithe,North Sea_saithe,0.351,0.19,1.84737,152998.0,150000,1.02000
+1968,North Sea,North Sea,saithe,North Sea_saithe,0.29425,0.19,1.54868,211139.0,150000,1.40800
+1969,North Sea,North Sea,saithe,North Sea_saithe,0.32025,0.19,1.68553,277606.0,150000,1.85100
+1970,North Sea,North Sea,saithe,North Sea_saithe,0.3445,0.19,1.81316,346525.0,150000,2.31000
+1971,North Sea,North Sea,saithe,North Sea_saithe,0.37375,0.19,1.96711,461416.0,150000,3.07600
+1972,North Sea,North Sea,saithe,North Sea_saithe,0.405,0.19,2.13158,489786.0,150000,3.26500
+1973,North Sea,North Sea,saithe,North Sea_saithe,0.4305,0.19,2.26579,521616.0,150000,3.47700
+1974,North Sea,North Sea,saithe,North Sea_saithe,0.4965,0.19,2.61316,576364.0,150000,3.84200
+1975,North Sea,North Sea,saithe,North Sea_saithe,0.53575,0.19,2.81974,516418.0,150000,3.44300
+1976,North Sea,North Sea,saithe,North Sea_saithe,0.5995,0.19,3.15526,398488.0,150000,2.65700
+1977,North Sea,North Sea,saithe,North Sea_saithe,0.5895,0.19,3.10263,324904.0,150000,2.16600
+1978,North Sea,North Sea,saithe,North Sea_saithe,0.483,0.19,2.54211,297101.0,150000,1.98100
+1979,North Sea,North Sea,saithe,North Sea_saithe,0.4525,0.19,2.38158,278838.0,150000,1.85900
+1980,North Sea,North Sea,saithe,North Sea_saithe,0.475,0.19,2.50000,261217.0,150000,1.74100
+1981,North Sea,North Sea,saithe,North Sea_saithe,0.473,0.19,2.48947,249741.0,150000,1.66500
+1982,North Sea,North Sea,saithe,North Sea_saithe,0.5415,0.19,2.85000,220175.0,150000,1.46800
+1983,North Sea,North Sea,saithe,North Sea_saithe,0.65,0.19,3.42105,219844.0,150000,1.46600
+1984,North Sea,North Sea,saithe,North Sea_saithe,0.67675,0.19,3.56184,188332.0,150000,1.25600
+1985,North Sea,North Sea,saithe,North Sea_saithe,0.70175,0.19,3.69342,165787.0,150000,1.10500
+1986,North Sea,North Sea,saithe,North Sea_saithe,0.73375,0.19,3.86184,156686.0,150000,1.04500
+1987,North Sea,North Sea,saithe,North Sea_saithe,0.70475,0.19,3.70921,165372.0,150000,1.10200
+1988,North Sea,North Sea,saithe,North Sea_saithe,0.71075,0.19,3.74079,154711.0,150000,1.03100
+1989,North Sea,North Sea,saithe,North Sea_saithe,0.689,0.19,3.62632,126303.0,150000,0.84200
+1990,North Sea,North Sea,saithe,North Sea_saithe,0.655,0.19,3.44737,114398.0,150000,0.76300
+1991,North Sea,North Sea,saithe,North Sea_saithe,0.62525,0.19,3.29079,107444.0,150000,0.71600
+1992,North Sea,North Sea,saithe,North Sea_saithe,0.60625,0.19,3.19079,113008.0,150000,0.75300
+1993,North Sea,North Sea,saithe,North Sea_saithe,0.63575,0.19,3.34605,119604.0,150000,0.79700
+1994,North Sea,North Sea,saithe,North Sea_saithe,0.567,0.19,2.98421,124892.0,150000,0.83300
+1995,North Sea,North Sea,saithe,North Sea_saithe,0.571,0.19,3.00526,144156.0,150000,0.96100
+1996,North Sea,North Sea,saithe,North Sea_saithe,0.50525,0.19,2.65921,156161.0,150000,1.04100
+1997,North Sea,North Sea,saithe,North Sea_saithe,0.4395,0.19,2.31316,194461.0,150000,1.29600
+1998,North Sea,North Sea,saithe,North Sea_saithe,0.446,0.19,2.34737,191216.0,150000,1.27500
+1999,North Sea,North Sea,saithe,North Sea_saithe,0.47625,0.19,2.50658,200392.0,150000,1.33600
+2000,North Sea,North Sea,saithe,North Sea_saithe,0.4165,0.19,2.19211,190854.0,150000,1.27200
+2001,North Sea,North Sea,saithe,North Sea_saithe,0.38675,0.19,2.03553,197732.0,150000,1.31800
+2002,North Sea,North Sea,saithe,North Sea_saithe,0.3995,0.19,2.10263,222354.0,150000,1.48200
+2003,North Sea,North Sea,saithe,North Sea_saithe,0.41175,0.19,2.16711,214089.0,150000,1.42700
+2004,North Sea,North Sea,saithe,North Sea_saithe,0.36125,0.19,1.90132,270812.0,150000,1.80500
+2005,North Sea,North Sea,saithe,North Sea_saithe,0.37225,0.19,1.95921,261942.0,150000,1.74600
+2006,North Sea,North Sea,saithe,North Sea_saithe,0.38725,0.19,2.03816,273621.0,150000,1.82400
+2007,North Sea,North Sea,saithe,North Sea_saithe,0.36775,0.19,1.93553,250461.0,150000,1.67000
+2008,North Sea,North Sea,saithe,North Sea_saithe,0.43425,0.19,2.28553,253402.0,150000,1.68900
+2009,North Sea,North Sea,saithe,North Sea_saithe,0.43825,0.19,2.30658,247285.0,150000,1.64900
+2010,North Sea,North Sea,saithe,North Sea_saithe,0.42225,0.19,2.22237,232304.0,150000,1.54900
+2011,North Sea,North Sea,saithe,North Sea_saithe,0.42725,0.19,2.24868,186024.0,150000,1.24000
+2012,North Sea,North Sea,saithe,North Sea_saithe,0.38925,0.19,2.04868,169156.0,150000,1.12800
+2013,North Sea,North Sea,saithe,North Sea_saithe,0.3485,0.19,1.83421,179454.0,150000,1.19600
+2014,North Sea,North Sea,saithe,North Sea_saithe,0.31675,0.19,1.66711,210261.0,150000,1.40200
+2015,North Sea,North Sea,saithe,North Sea_saithe,0.306,0.19,1.61053,228761.0,150000,1.52500
+2016,North Sea,North Sea,saithe,North Sea_saithe,0.2815,0.19,1.48158,NA,150000,NA
+1990,North Sea,North Sea,whiting,North Sea_whiting,0.6874,0.15,4.58267,455279.0,166708,2.73100
+1991,North Sea,North Sea,whiting,North Sea_whiting,0.5444,0.15,3.62933,411050.0,166708,2.46600
+1992,North Sea,North Sea,whiting,North Sea_whiting,0.4952,0.15,3.30133,392805.0,166708,2.35600
+1993,North Sea,North Sea,whiting,North Sea_whiting,0.5036,0.15,3.35733,359044.0,166708,2.15400
+1994,North Sea,North Sea,whiting,North Sea_whiting,0.6434,0.15,4.28933,357259.0,166708,2.14300
+1995,North Sea,North Sea,whiting,North Sea_whiting,0.5484,0.15,3.65600,372021.0,166708,2.23200
+1996,North Sea,North Sea,whiting,North Sea_whiting,0.453,0.15,3.02000,332282.0,166708,1.99300
+1997,North Sea,North Sea,whiting,North Sea_whiting,0.3484,0.15,2.32267,292302.0,166708,1.75300
+1998,North Sea,North Sea,whiting,North Sea_whiting,0.338,0.15,2.25333,244159.0,166708,1.46500
+1999,North Sea,North Sea,whiting,North Sea_whiting,0.3974,0.15,2.64933,250651.0,166708,1.50400
+2000,North Sea,North Sea,whiting,North Sea_whiting,0.4532,0.15,3.02133,345801.0,166708,2.07400
+2001,North Sea,North Sea,whiting,North Sea_whiting,0.3064,0.15,2.04267,422950.0,166708,2.53700
+2002,North Sea,North Sea,whiting,North Sea_whiting,0.2066,0.15,1.37733,384093.0,166708,2.30400
+2003,North Sea,North Sea,whiting,North Sea_whiting,0.1934,0.15,1.28933,307423.0,166708,1.84400
+2004,North Sea,North Sea,whiting,North Sea_whiting,0.2016,0.15,1.34400,239795.0,166708,1.43800
+2005,North Sea,North Sea,whiting,North Sea_whiting,0.1894,0.15,1.26267,199359.0,166708,1.19600
+2006,North Sea,North Sea,whiting,North Sea_whiting,0.2718,0.15,1.81200,180314.0,166708,1.08200
+2007,North Sea,North Sea,whiting,North Sea_whiting,0.26,0.15,1.73333,171511.0,166708,1.02900
+2008,North Sea,North Sea,whiting,North Sea_whiting,0.258,0.15,1.72000,192996.0,166708,1.15800
+2009,North Sea,North Sea,whiting,North Sea_whiting,0.2262,0.15,1.50800,262076.0,166708,1.57200
+2010,North Sea,North Sea,whiting,North Sea_whiting,0.2322,0.15,1.54800,290502.0,166708,1.74300
+2011,North Sea,North Sea,whiting,North Sea_whiting,0.1766,0.15,1.17733,297582.0,166708,1.78500
+2012,North Sea,North Sea,whiting,North Sea_whiting,0.156,0.15,1.04000,307953.0,166708,1.84700
+2013,North Sea,North Sea,whiting,North Sea_whiting,0.1916,0.15,1.27733,262743.0,166708,1.57600
+2014,North Sea,North Sea,whiting,North Sea_whiting,0.213,0.15,1.42000,236283.0,166708,1.41700
+2015,North Sea,North Sea,whiting,North Sea_whiting,0.209,0.15,1.39333,264295.0,166708,1.58500
+2016,North Sea,North Sea,whiting,North Sea_whiting,0.2436,0.15,1.62400,296870.0,166708,1.78100
+1980,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.223953,0.25,0.89581,8222.0,25826,0.31836
+1981,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.2699432,0.25,1.07977,10887.0,25826,0.42155
+1982,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.318436,0.25,1.27374,13295.0,25826,0.51479
+1983,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.3540164,0.25,1.41607,13409.0,25826,0.51921
+1984,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.3690552,0.25,1.47622,13439.0,25826,0.52037
+1985,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.3695568,0.25,1.47823,13416.0,25826,0.51948
+1986,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.3539934,0.25,1.41597,13311.0,25826,0.51541
+1987,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.3367548,0.25,1.34702,15842.0,25826,0.61341
+1988,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.3347618,0.25,1.33905,20745.0,25826,0.80326
+1989,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.3450832,0.25,1.38033,22487.0,25826,0.87071
+1990,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.365895,0.25,1.46358,19475.0,25826,0.75409
+1991,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.3908406,0.25,1.56336,15456.0,25826,0.59847
+1992,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.386737,0.25,1.54695,12611.0,25826,0.48831
+1993,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.3634672,0.25,1.45387,11391.0,25826,0.44107
+1994,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.3622362,0.25,1.44894,10575.0,25826,0.40947
+1995,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.4146256,0.25,1.65850,9226.0,25826,0.35724
+1996,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.4920302,0.25,1.96812,8014.0,25826,0.31031
+1997,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.5046382,0.25,2.01855,8252.0,25826,0.31952
+1998,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.4252706,0.25,1.70108,10626.0,25826,0.41145
+1999,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.3494514,0.25,1.39781,14002.0,25826,0.54217
+2000,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.3363224,0.25,1.34529,15193.0,25826,0.58828
+2001,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.3751022,0.25,1.50041,13871.0,25826,0.53709
+2002,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.4031064,0.25,1.61243,12580.0,25826,0.48711
+2003,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.3589966,0.25,1.43599,12012.0,25826,0.46511
+2004,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.2975752,0.25,1.19030,12426.0,25826,0.48114
+2005,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.264864,0.25,1.05946,12870.0,25826,0.49834
+2006,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.2650052,0.25,1.06002,13529.0,25826,0.52385
+2007,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.2811202,0.25,1.12448,13937.0,25826,0.53965
+2008,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.2808434,0.25,1.12337,13836.0,25826,0.53574
+2009,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.2409432,0.25,0.96377,14495.0,25826,0.56126
+2010,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.189912,0.25,0.75965,17304.0,25826,0.67002
+2011,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.1503618,0.25,0.60145,24313.0,25826,0.94142
+2012,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.12612,0.25,0.50448,37292.0,25826,1.44397
+2013,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.1144866,0.25,0.45795,51445.0,25826,1.99198
+2014,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.1138122,0.25,0.45525,58096.0,25826,2.24952
+2015,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.1218324,0.25,0.48733,57382.0,25826,2.22187
+2016,North Sea,North Sea 7.d.,plaice,North Sea 7.d._plaice,0.1364498,0.25,0.54580,55038.0,25826,2.13111
+1957,North Sea,North Sea,plaice,North Sea_plaice,0.2418,0.21,1.15143,342134.0,230000,1.48754
+1958,North Sea,North Sea,plaice,North Sea_plaice,0.2794,0.21,1.33048,355221.4,230000,1.54444
+1959,North Sea,North Sea,plaice,North Sea_plaice,0.3122,0.21,1.48667,361917.9,230000,1.57356
+1960,North Sea,North Sea,plaice,North Sea_plaice,0.3242,0.21,1.54381,379580.6,230000,1.65035
+1961,North Sea,North Sea,plaice,North Sea_plaice,0.3242,0.21,1.54381,390555.0,230000,1.69807
+1962,North Sea,North Sea,plaice,North Sea_plaice,0.3358,0.21,1.59905,481691.4,230000,2.09431
+1963,North Sea,North Sea,plaice,North Sea_plaice,0.3686,0.21,1.75524,439846.6,230000,1.91238
+1964,North Sea,North Sea,plaice,North Sea_plaice,0.3956,0.21,1.88381,430217.9,230000,1.87051
+1965,North Sea,North Sea,plaice,North Sea_plaice,0.3866,0.21,1.84095,383317.5,230000,1.66660
+1966,North Sea,North Sea,plaice,North Sea_plaice,0.361,0.21,1.71905,405150.5,230000,1.76152
+1967,North Sea,North Sea,plaice,North Sea_plaice,0.349,0.21,1.66190,473182.2,230000,2.05731
+1968,North Sea,North Sea,plaice,North Sea_plaice,0.3542,0.21,1.68667,456929.0,230000,1.98665
+1969,North Sea,North Sea,plaice,North Sea_plaice,0.3616,0.21,1.72190,402002.0,230000,1.74783
+1970,North Sea,North Sea,plaice,North Sea_plaice,0.3618,0.21,1.72286,371011.4,230000,1.61309
+1971,North Sea,North Sea,plaice,North Sea_plaice,0.3712,0.21,1.76762,362809.1,230000,1.57743
+1972,North Sea,North Sea,plaice,North Sea_plaice,0.4068,0.21,1.93714,365750.2,230000,1.59022
+1973,North Sea,North Sea,plaice,North Sea_plaice,0.4524,0.21,2.15429,300366.8,230000,1.30594
+1974,North Sea,North Sea,plaice,North Sea_plaice,0.4704,0.21,2.24000,296341.4,230000,1.28844
+1975,North Sea,North Sea,plaice,North Sea_plaice,0.4556,0.21,2.16952,303465.8,230000,1.31942
+1976,North Sea,North Sea,plaice,North Sea_plaice,0.4438,0.21,2.11333,330751.8,230000,1.43805
+1977,North Sea,North Sea,plaice,North Sea_plaice,0.4582,0.21,2.18190,328753.6,230000,1.42936
+1978,North Sea,North Sea,plaice,North Sea_plaice,0.4876,0.21,2.32190,324451.4,230000,1.41066
+1979,North Sea,North Sea,plaice,North Sea_plaice,0.5156,0.21,2.45524,300491.2,230000,1.30648
+1980,North Sea,North Sea,plaice,North Sea_plaice,0.536,0.21,2.55238,320390.3,230000,1.39300
+1981,North Sea,North Sea,plaice,North Sea_plaice,0.5424,0.21,2.58286,293391.9,230000,1.27562
+1982,North Sea,North Sea,plaice,North Sea_plaice,0.5338,0.21,2.54190,286215.1,230000,1.24441
+1983,North Sea,North Sea,plaice,North Sea_plaice,0.5214,0.21,2.48286,339001.4,230000,1.47392
+1984,North Sea,North Sea,plaice,North Sea_plaice,0.5156,0.21,2.45524,365103.6,230000,1.58741
+1985,North Sea,North Sea,plaice,North Sea_plaice,0.53,0.21,2.52381,394411.5,230000,1.71483
+1986,North Sea,North Sea,plaice,North Sea_plaice,0.5776,0.21,2.75048,414899.4,230000,1.80391
+1987,North Sea,North Sea,plaice,North Sea_plaice,0.6366,0.21,3.03143,481114.1,230000,2.09180
+1988,North Sea,North Sea,plaice,North Sea_plaice,0.6508,0.21,3.09905,425330.7,230000,1.84926
+1989,North Sea,North Sea,plaice,North Sea_plaice,0.6092,0.21,2.90095,441343.4,230000,1.91888
+1990,North Sea,North Sea,plaice,North Sea_plaice,0.5792,0.21,2.75810,394926.0,230000,1.71707
+1991,North Sea,North Sea,plaice,North Sea_plaice,0.6054,0.21,2.88286,364115.9,230000,1.58311
+1992,North Sea,North Sea,plaice,North Sea_plaice,0.6462,0.21,3.07714,315700.1,230000,1.37261
+1993,North Sea,North Sea,plaice,North Sea_plaice,0.6238,0.21,2.97048,274431.5,230000,1.19318
+1994,North Sea,North Sea,plaice,North Sea_plaice,0.5722,0.21,2.72476,226610.2,230000,0.98526
+1995,North Sea,North Sea,plaice,North Sea_plaice,0.5814,0.21,2.76857,222254.1,230000,0.96632
+1996,North Sea,North Sea,plaice,North Sea_plaice,0.6846,0.21,3.26000,211544.1,230000,0.91976
+1997,North Sea,North Sea,plaice,North Sea_plaice,0.7866,0.21,3.74571,212126.5,230000,0.92229
+1998,North Sea,North Sea,plaice,North Sea_plaice,0.7366,0.21,3.50762,229506.2,230000,0.99785
+1999,North Sea,North Sea,plaice,North Sea_plaice,0.639,0.21,3.04286,214731.9,230000,0.93362
+2000,North Sea,North Sea,plaice,North Sea_plaice,0.6024,0.21,2.86857,234641.8,230000,1.02018
+2001,North Sea,North Sea,plaice,North Sea_plaice,0.622,0.21,2.96190,235083.4,230000,1.02210
+2002,North Sea,North Sea,plaice,North Sea_plaice,0.629,0.21,2.99524,213590.9,230000,0.92866
+2003,North Sea,North Sea,plaice,North Sea_plaice,0.5608,0.21,2.67048,231607.7,230000,1.00699
+2004,North Sea,North Sea,plaice,North Sea_plaice,0.471,0.21,2.24286,223537.8,230000,0.97190
+2005,North Sea,North Sea,plaice,North Sea_plaice,0.407,0.21,1.93810,251804.9,230000,1.09480
+2006,North Sea,North Sea,plaice,North Sea_plaice,0.358,0.21,1.70476,280354.6,230000,1.21893
+2007,North Sea,North Sea,plaice,North Sea_plaice,0.3018,0.21,1.43714,284013.6,230000,1.23484
+2008,North Sea,North Sea,plaice,North Sea_plaice,0.2448,0.21,1.16571,360136.4,230000,1.56581
+2009,North Sea,North Sea,plaice,North Sea_plaice,0.2098,0.21,0.99905,445984.7,230000,1.93906
+2010,North Sea,North Sea,plaice,North Sea_plaice,0.2024,0.21,0.96381,549922.9,230000,2.39097
+2011,North Sea,North Sea,plaice,North Sea_plaice,0.2072,0.21,0.98667,568761.4,230000,2.47288
+2012,North Sea,North Sea,plaice,North Sea_plaice,0.2078,0.21,0.98952,605786.7,230000,2.63386
+2013,North Sea,North Sea,plaice,North Sea_plaice,0.2028,0.21,0.96571,694432.1,230000,3.01927
+2014,North Sea,North Sea,plaice,North Sea_plaice,0.1988,0.21,0.94667,809921.5,230000,3.52140
+2015,North Sea,North Sea,plaice,North Sea_plaice,0.199,0.21,0.94762,770555.6,230000,3.35024
+2016,North Sea,North Sea,plaice,North Sea_plaice,0.2018,0.21,0.96095,836066.4,230000,3.63507
+1981,North Sea,North Sea,turbot,North Sea_turbot,0.353489202,0.36,0.98191,16702.0,4163,4.01202
+1982,North Sea,North Sea,turbot,North Sea_turbot,0.342091704,0.36,0.95025,15393.2,4163,3.69762
+1983,North Sea,North Sea,turbot,North Sea_turbot,0.379801305,0.36,1.05500,14219.9,4163,3.41577
+1984,North Sea,North Sea,turbot,North Sea_turbot,0.41136598,0.36,1.14268,13087.0,4163,3.14365
+1985,North Sea,North Sea,turbot,North Sea_turbot,0.46564552,0.36,1.29346,13262.1,4163,3.18570
+1986,North Sea,North Sea,turbot,North Sea_turbot,0.438048957,0.36,1.21680,12638.5,4163,3.03592
+1987,North Sea,North Sea,turbot,North Sea_turbot,0.410556338,0.36,1.14043,11518.4,4163,2.76685
+1988,North Sea,North Sea,turbot,North Sea_turbot,0.397934267,0.36,1.10537,9788.4,4163,2.35128
+1989,North Sea,North Sea,turbot,North Sea_turbot,0.548534056,0.36,1.52371,10256.6,4163,2.46375
+1990,North Sea,North Sea,turbot,North Sea_turbot,0.667324974,0.36,1.85368,9106.3,4163,2.18743
+1991,North Sea,North Sea,turbot,North Sea_turbot,0.715995574,0.36,1.98888,7886.1,4163,1.89434
+1992,North Sea,North Sea,turbot,North Sea_turbot,0.752863076,0.36,2.09129,7401.0,4163,1.77780
+1993,North Sea,North Sea,turbot,North Sea_turbot,0.783249578,0.36,2.17569,6646.9,4163,1.59665
+1994,North Sea,North Sea,turbot,North Sea_turbot,0.79742633,0.36,2.21507,5665.0,4163,1.36079
+1995,North Sea,North Sea,turbot,North Sea_turbot,0.795279014,0.36,2.20911,5301.1,4163,1.27338
+1996,North Sea,North Sea,turbot,North Sea_turbot,0.724370864,0.36,2.01214,4670.2,4163,1.12184
+1997,North Sea,North Sea,turbot,North Sea_turbot,0.669151618,0.36,1.85875,4817.5,4163,1.15722
+1998,North Sea,North Sea,turbot,North Sea_turbot,0.59003992,0.36,1.63900,4560.4,4163,1.09547
+1999,North Sea,North Sea,turbot,North Sea_turbot,0.504120994,0.36,1.40034,4555.0,4163,1.09416
+2000,North Sea,North Sea,turbot,North Sea_turbot,0.507211078,0.36,1.40892,5660.0,4163,1.35959
+2001,North Sea,North Sea,turbot,North Sea_turbot,0.524023664,0.36,1.45562,5872.6,4163,1.41067
+2002,North Sea,North Sea,turbot,North Sea_turbot,0.523716868,0.36,1.45477,5895.2,4163,1.41609
+2003,North Sea,North Sea,turbot,North Sea_turbot,0.466128156,0.36,1.29480,5831.8,4163,1.40087
+2004,North Sea,North Sea,turbot,North Sea_turbot,0.39905571,0.36,1.10849,5846.7,4163,1.40445
+2005,North Sea,North Sea,turbot,North Sea_turbot,0.347621836,0.36,0.96562,6063.8,4163,1.45659
+2006,North Sea,North Sea,turbot,North Sea_turbot,0.284372552,0.36,0.78992,6430.4,4163,1.54466
+2007,North Sea,North Sea,turbot,North Sea_turbot,0.266625242,0.36,0.74063,7797.1,4163,1.87295
+2008,North Sea,North Sea,turbot,North Sea_turbot,0.315462448,0.36,0.87628,8464.5,4163,2.03327
+2009,North Sea,North Sea,turbot,North Sea_turbot,0.360813798,0.36,1.00226,8667.3,4163,2.08199
+2010,North Sea,North Sea,turbot,North Sea_turbot,0.367473214,0.36,1.02076,7900.1,4163,1.89769
+2011,North Sea,North Sea,turbot,North Sea_turbot,0.329010372,0.36,0.91392,7740.2,4163,1.85928
+2012,North Sea,North Sea,turbot,North Sea_turbot,0.29905959,0.36,0.83072,8890.7,4163,2.13564
+2013,North Sea,North Sea,turbot,North Sea_turbot,0.29541402,0.36,0.82059,9426.8,4163,2.26444
+2014,North Sea,North Sea,turbot,North Sea_turbot,0.299291406,0.36,0.83137,10226.0,4163,2.45639
+2015,North Sea,North Sea,turbot,North Sea_turbot,0.299252902,0.36,0.83126,10867.6,4163,2.61053
+2016,North Sea,North Sea,turbot,North Sea_turbot,0.360296266,0.36,1.00082,11788.5,4163,2.83174
+1994,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,1.183666667,0.26,4.55256,31729.0,38400,0.82600
+1995,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,1.245666667,0.26,4.79103,29822.0,38400,0.77700
+1996,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,1.190333333,0.26,4.57821,33124.0,38400,0.86300
+1997,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,1.190666667,0.26,4.57949,34475.0,38400,0.89800
+1998,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,1.208666667,0.26,4.64872,26930.0,38400,0.70100
+1999,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,1.296,0.26,4.98462,31445.0,38400,0.81900
+2000,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,1.294,0.26,4.97692,36279.0,38400,0.94500
+2001,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,1.313666667,0.26,5.05256,29057.0,38400,0.75700
+2002,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,1.268333333,0.26,4.87821,22494.0,38400,0.58600
+2003,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,1.180666667,0.26,4.54103,17361.0,38400,0.45200
+2004,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,1.122666667,0.26,4.31795,19205.0,38400,0.50000
+2005,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,1.047333333,0.26,4.02821,26635.0,38400,0.69400
+2006,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,0.951333333,0.26,3.65897,30853.0,38400,0.80300
+2007,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,0.963666667,0.26,3.70641,31008.0,38400,0.80800
+2008,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,0.992,0.26,3.81538,21314.0,38400,0.55500
+2009,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,1.003333333,0.26,3.85897,14098.0,38400,0.36700
+2010,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,0.996333333,0.26,3.83205,13100.0,38400,0.34100
+2011,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,0.971333333,0.26,3.73590,13212.0,38400,0.34400
+2012,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,0.964,0.26,3.70769,15205.0,38400,0.39600
+2013,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,1.055333333,0.26,4.05897,12087.0,38400,0.31500
+2014,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,0.989666667,0.26,3.80641,15387.0,38400,0.40100
+2015,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,0.948333333,0.26,3.64744,16828.0,38400,0.43800
+2016,Baltic Sea,Baltic Sea,cod,Baltic Sea_cod,0.929666667,0.26,3.57564,13479.0,38400,0.35100
+1999,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.945333333,0.37,2.55495,3892.0,5550,0.70100
+2000,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.996333333,0.37,2.69279,4769.0,5550,0.85900
+2001,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.937666667,0.37,2.53423,5935.0,5550,1.06900
+2002,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.863666667,0.37,2.33423,6239.0,5550,1.12400
+2003,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.782666667,0.37,2.11532,5805.0,5550,1.04600
+2004,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.754666667,0.37,2.03964,5444.0,5550,0.98100
+2005,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.753666667,0.37,2.03694,5283.0,5550,0.95200
+2006,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.789,0.37,2.13243,5094.0,5550,0.91800
+2007,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.782,0.37,2.11351,4809.0,5550,0.86600
+2008,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.757,0.37,2.04595,4504.0,5550,0.81200
+2009,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.683333333,0.37,1.84685,4330.0,5550,0.78000
+2010,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.61,0.37,1.64865,4652.0,5550,0.83800
+2011,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.556333333,0.37,1.50360,5378.0,5550,0.96900
+2012,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.383333333,0.37,1.03604,6475.0,5550,1.16700
+2013,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.311333333,0.37,0.84144,8218.0,5550,1.48100
+2014,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.270333333,0.37,0.73063,9883.0,5550,1.78100
+2015,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.259666667,0.37,0.70180,11340.0,5550,2.04300
+2016,Baltic Sea,Baltic Sea,plaice,Baltic Sea_plaice,0.282666667,0.37,0.76396,12759.0,5550,2.29900
+1984,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.419333333,0.23,1.82319,873.0,2600,0.33600
+1985,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.336,0.23,1.46087,1122.0,2600,0.43200
+1986,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.371333333,0.23,1.61449,2021.0,2600,0.77700
+1987,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.409666667,0.23,1.78116,2090.0,2600,0.80400
+1988,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.379,0.23,1.64783,2160.0,2600,0.83100
+1989,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.391,0.23,1.70000,2179.0,2600,0.83800
+1990,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.376333333,0.23,1.63623,2719.0,2600,1.04600
+1991,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.39,0.23,1.69565,3186.0,2600,1.22500
+1992,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.4,0.23,1.73913,4099.0,2600,1.57700
+1993,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.407333333,0.23,1.77101,3889.0,2600,1.49600
+1994,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.353,0.23,1.53478,4067.0,2600,1.56400
+1995,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.374333333,0.23,1.62754,3415.0,2600,1.31300
+1996,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.349,0.23,1.51739,3239.0,2600,1.24600
+1997,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.327333333,0.23,1.42319,2636.0,2600,1.01400
+1998,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.311333333,0.23,1.35362,1859.0,2600,0.71500
+1999,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.291,0.23,1.26522,2260.0,2600,0.86900
+2000,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.279666667,0.23,1.21594,2282.0,2600,0.87800
+2001,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.238333333,0.23,1.03623,2231.0,2600,0.85800
+2002,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.261333333,0.23,1.13623,2629.0,2600,1.01100
+2003,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.238666667,0.23,1.03768,2975.0,2600,1.14400
+2004,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.276666667,0.23,1.20290,3191.0,2600,1.22700
+2005,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.305,0.23,1.32609,3522.0,2600,1.35500
+2006,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.308,0.23,1.33913,2996.0,2600,1.15200
+2007,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.304666667,0.23,1.32464,2469.0,2600,0.95000
+2008,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.338,0.23,1.46957,2041.0,2600,0.78500
+2009,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.312333333,0.23,1.35797,2354.0,2600,0.90500
+2010,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.304333333,0.23,1.32319,2082.0,2600,0.80100
+2011,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.255,0.23,1.10870,2097.0,2600,0.80700
+2012,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.215,0.23,0.93478,2280.0,2600,0.87700
+2013,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.197333333,0.23,0.85797,1770.0,2600,0.68100
+2014,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.168666667,0.23,0.73333,2200.0,2600,0.84600
+2015,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.152666667,0.23,0.66377,1938.0,2600,0.74500
+2016,Baltic Sea,Baltic Sea,sole,Baltic Sea_sole,0.186,0.23,0.80870,2016.0,2600,0.77500
+1974,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.33,0.28,1.17857,1097000.0,574000,1.91100
+1975,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.35,0.28,1.25000,867000.0,574000,1.51000
+1976,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.32,0.28,1.14286,738000.0,574000,1.28600
+1977,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.28,0.28,1.00000,1257000.0,574000,2.19000
+1978,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.27,0.28,0.96429,866000.0,574000,1.50900
+1979,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.2,0.28,0.71429,498000.0,574000,0.86800
+1980,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.21,0.28,0.75000,311000.0,574000,0.54200
+1981,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.13,0.28,0.46429,268000.0,574000,0.46700
+1982,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.23,0.28,0.82143,340000.0,574000,0.59200
+1983,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.11,0.28,0.39286,478000.0,574000,0.83300
+1984,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.16,0.28,0.57143,691000.0,574000,1.20400
+1985,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.16,0.28,0.57143,639000.0,574000,1.11300
+1986,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.2,0.28,0.71429,581000.0,574000,1.01200
+1987,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.26,0.28,0.92857,466000.0,574000,0.81200
+1988,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.34,0.28,1.21429,415000.0,574000,0.72300
+1989,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.28,0.28,1.00000,438000.0,574000,0.76300
+1990,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.4,0.28,1.42857,570000.0,574000,0.99300
+1991,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.39,0.28,1.39286,776000.0,574000,1.35200
+1992,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.38,0.28,1.35714,1034000.0,574000,1.80100
+1993,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.31,0.28,1.10714,1359000.0,574000,2.36800
+1994,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.29,0.28,1.03571,1407000.0,574000,2.45100
+1995,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.38,0.28,1.35714,1496000.0,574000,2.60600
+1996,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.41,0.28,1.46429,1910000.0,574000,3.32800
+1997,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.39,0.28,1.39286,1885000.0,574000,3.28400
+1998,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.38,0.28,1.35714,1414000.0,574000,2.46300
+1999,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.37,0.28,1.32143,1424000.0,574000,2.48100
+2000,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.31,0.28,1.10714,1352000.0,574000,2.35500
+2001,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.29,0.28,1.03571,1210000.0,574000,2.10800
+2002,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.38,0.28,1.35714,950000.0,574000,1.65500
+2003,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.41,0.28,1.46429,810000.0,574000,1.41100
+2004,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.5,0.28,1.78571,1045000.0,574000,1.82100
+2005,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.46,0.28,1.64286,1310000.0,574000,2.28200
+2006,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.37,0.28,1.32143,1086000.0,574000,1.89200
+2007,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.35,0.28,1.25000,959000.0,574000,1.67100
+2008,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.37,0.28,1.32143,1029000.0,574000,1.79300
+2009,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.44,0.28,1.57143,953000.0,574000,1.66000
+2010,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.36,0.28,1.28571,1077000.0,574000,1.87600
+2011,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.34,0.28,1.21429,827000.0,574000,1.44100
+2012,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.32,0.28,1.14286,751000.0,574000,1.30800
+2013,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.39,0.28,1.39286,804000.0,574000,1.40100
+2014,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.36,0.28,1.28571,769000.0,574000,1.34000
+2015,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.31,0.28,1.10714,848000.0,574000,1.47700
+2016,Baltic Sea,Baltic Sea,sprat,Baltic Sea_sprat,0.22,0.28,0.78571,1176000.0,574000,2.04900
+1974,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.1845,0.22,0.83864,1683342.0,600000,2.80600
+1975,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.200325,0.22,0.91057,1577408.0,600000,2.62900
+1976,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.193475,0.22,0.87943,1368886.0,600000,2.28100
+1977,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.1887,0.22,0.85773,1521998.0,600000,2.53700
+1978,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.1644,0.22,0.74727,1441824.0,600000,2.40300
+1979,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.195325,0.22,0.88784,1410091.0,600000,2.35000
+1980,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.1872,0.22,0.85091,1359022.0,600000,2.26500
+1981,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.202775,0.22,0.92170,1288491.0,600000,2.14700
+1982,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.173875,0.22,0.79034,1434355.0,600000,2.39100
+1983,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.224125,0.22,1.01875,1408071.0,600000,2.34700
+1984,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.22355,0.22,1.01614,1321236.0,600000,2.20200
+1985,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.229525,0.22,1.04330,1270356.0,600000,2.11700
+1986,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.202075,0.22,0.91852,1205417.0,600000,2.00900
+1987,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.230275,0.22,1.04670,1150388.0,600000,1.91700
+1988,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.218475,0.22,0.99307,1154698.0,600000,1.92400
+1989,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.289375,0.22,1.31534,1017851.0,600000,1.69600
+1990,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.274275,0.22,1.24670,875410.0,600000,1.45900
+1991,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.282625,0.22,1.28466,788409.0,600000,1.31400
+1992,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.2514,0.22,1.14273,809946.0,600000,1.35000
+1993,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.284375,0.22,1.29261,762903.0,600000,1.27200
+1994,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.3412,0.22,1.55091,773069.0,600000,1.28800
+1995,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.31895,0.22,1.44977,679845.0,600000,1.13300
+1996,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.3209,0.22,1.45864,626540.0,600000,1.04400
+1997,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.348475,0.22,1.58398,588136.0,600000,0.98000
+1998,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.3637,0.22,1.65318,540088.0,600000,0.90000
+1999,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.308825,0.22,1.40375,459795.0,600000,0.76600
+2000,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.41625,0.22,1.89205,470975.0,600000,0.78500
+2001,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.34595,0.22,1.57250,427121.0,600000,0.71200
+2002,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.2946,0.22,1.33909,446227.0,600000,0.74400
+2003,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.225175,0.22,1.02352,517700.0,600000,0.86300
+2004,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.18855,0.22,0.85705,525969.0,600000,0.87700
+2005,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.1691,0.22,0.76864,593317.0,600000,0.98900
+2006,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.18305,0.22,0.83205,659796.0,600000,1.10000
+2007,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.185775,0.22,0.84443,689864.0,600000,1.15000
+2008,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.187625,0.22,0.85284,703641.0,600000,1.17300
+2009,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.169975,0.22,0.77261,808877.0,600000,1.34800
+2010,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.197075,0.22,0.89580,868744.0,600000,1.44800
+2011,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.1512,0.22,0.68727,863526.0,600000,1.43900
+2012,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.109925,0.22,0.49966,923727.0,600000,1.54000
+2013,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.09825,0.22,0.44659,1001657.0,600000,1.66900
+2014,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.134475,0.22,0.61125,1103797.0,600000,1.84000
+2015,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.1795,0.22,0.81591,1050468.0,600000,1.75100
+2016,Baltic Sea,Baltic Sea,herring,Baltic Sea_herring,0.201475,0.22,0.91580,1036926.0,600000,1.72800
+1977,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.6903,0.32,2.15719,76734.0,57100,1.34400
+1978,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.3751,0.32,1.17219,66256.0,57100,1.16000
+1979,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.431,0.32,1.34688,66130.0,57100,1.15800
+1980,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.3498,0.32,1.09313,69530.0,57100,1.21800
+1981,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.4526,0.32,1.41438,65531.0,57100,1.14800
+1982,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.4198,0.32,1.31188,72903.0,57100,1.27700
+1983,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.4679,0.32,1.46219,76280.0,57100,1.33600
+1984,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.7069,0.32,2.20906,66151.0,57100,1.15900
+1985,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.5382,0.32,1.68188,77457.0,57100,1.35700
+1986,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.51,0.32,1.59375,86724.0,57100,1.51900
+1987,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.4229,0.32,1.32156,97525.0,57100,1.70800
+1988,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.5218,0.32,1.63063,116201.0,57100,2.03500
+1989,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.3616,0.32,1.13000,85976.0,57100,1.50600
+1990,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.2372,0.32,0.74125,138871.0,57100,2.43200
+1991,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.25,0.32,0.78125,141216.0,57100,2.47300
+1992,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.2668,0.32,0.83375,166620.0,57100,2.91800
+1993,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.2318,0.32,0.72438,174966.0,57100,3.06400
+1994,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.2332,0.32,0.72875,169465.0,57100,2.96800
+1995,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.3452,0.32,1.07875,165929.0,57100,2.90600
+1996,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.3674,0.32,1.14813,166847.0,57100,2.92200
+1997,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.4931,0.32,1.54094,133008.0,57100,2.32900
+1998,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.4441,0.32,1.38781,119460.0,57100,2.09200
+1999,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.428,0.32,1.33750,135577.0,57100,2.37400
+2000,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.4638,0.32,1.44938,131681.0,57100,2.30600
+2001,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.5367,0.32,1.67719,156008.0,57100,2.73200
+2002,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.4764,0.32,1.48875,142934.0,57100,2.50300
+2003,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.5535,0.32,1.72969,155454.0,57100,2.72200
+2004,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.5877,0.32,1.83656,119817.0,57100,2.09800
+2005,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.5135,0.32,1.60469,123480.0,57100,2.16300
+2006,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.4435,0.32,1.38594,142101.0,57100,2.48900
+2007,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.5759,0.32,1.79969,125345.0,57100,2.19500
+2008,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.3382,0.32,1.05688,155308.0,57100,2.72000
+2009,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.4018,0.32,1.25563,147827.0,57100,2.58900
+2010,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.3232,0.32,1.01000,138464.0,57100,2.42500
+2011,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.3617,0.32,1.13031,127867.0,57100,2.23900
+2012,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.3317,0.32,1.03656,142770.0,57100,2.50000
+2013,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.2606,0.32,0.81438,167870.0,57100,2.94000
+2014,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.2776,0.32,0.86750,146699.0,57100,2.56900
+2015,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.3774,0.32,1.17938,138063.0,57100,2.41800
+2016,Baltic Sea,Gulf of Riga,herring,Gulf of Riga_herring,0.3998,0.32,1.24938,131542.0,57100,2.30400
+1984,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.3117,0.33,0.94455,12316.0,10600,1.16200
+1985,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.306925,0.33,0.93008,13359.0,10600,1.26000
+1986,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.365225,0.33,1.10674,14469.0,10600,1.36500
+1987,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.371025,0.33,1.12432,15462.0,10600,1.45900
+1988,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.400275,0.33,1.21295,15336.0,10600,1.44700
+1989,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.49655,0.33,1.50470,14439.0,10600,1.36200
+1990,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.4538,0.33,1.37515,14788.0,10600,1.39500
+1991,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.41965,0.33,1.27167,14747.0,10600,1.39100
+1992,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.608775,0.33,1.84477,15939.0,10600,1.50400
+1993,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.526125,0.33,1.59432,16341.0,10600,1.54200
+1994,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.648075,0.33,1.96386,15809.0,10600,1.49100
+1995,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.576075,0.33,1.74568,14206.0,10600,1.34000
+1996,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.5448,0.33,1.65091,13784.0,10600,1.30000
+1997,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.610575,0.33,1.85023,13295.0,10600,1.25400
+1998,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.54015,0.33,1.63682,13211.0,10600,1.24600
+1999,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.62625,0.33,1.89773,12306.0,10600,1.16100
+2000,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.628675,0.33,1.90508,11830.0,10600,1.11600
+2001,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.5714,0.33,1.73152,10551.0,10600,0.99500
+2002,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.832675,0.33,2.52326,9758.0,10600,0.92100
+2003,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.4882,0.33,1.47939,9596.0,10600,0.90500
+2004,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.369925,0.33,1.12098,11121.0,10600,1.04900
+2005,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.4638,0.33,1.40545,11481.0,10600,1.08300
+2006,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.4387,0.33,1.32939,12115.0,10600,1.14300
+2007,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.45285,0.33,1.37227,11245.0,10600,1.06100
+2008,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.49035,0.33,1.48591,11163.0,10600,1.05300
+2009,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.464475,0.33,1.40750,11014.0,10600,1.03900
+2010,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.41595,0.33,1.26045,12996.0,10600,1.22600
+2011,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.3962,0.33,1.20061,14879.0,10600,1.40400
+2012,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.4682,0.33,1.41879,14261.0,10600,1.34500
+2013,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.46695,0.33,1.41500,13123.0,10600,1.23800
+2014,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.43825,0.33,1.32803,10136.0,10600,0.95600
+2015,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.426175,0.33,1.29144,9860.0,10600,0.93000
+2016,Bay of Biscay,Bay of Biscay,sole,Bay of Biscay_sole,0.364025,0.33,1.10311,11028.0,10600,1.04000
+1986,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.388433333,0.19,2.04439,2256.0,980,2.30200
+1987,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.353866667,0.19,1.86246,1899.0,980,1.93800
+1988,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.502633333,0.19,2.64544,2161.0,980,2.20500
+1989,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.435266667,0.19,2.29088,2330.0,980,2.37800
+1990,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.4494,0.19,2.36526,2396.0,980,2.44500
+1991,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.464466667,0.19,2.44456,1625.0,980,1.65800
+1992,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.4423,0.19,2.32789,1552.0,980,1.58400
+1993,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.326333333,0.19,1.71754,1409.0,980,1.43800
+1994,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.4153,0.19,2.18579,1217.0,980,1.24200
+1995,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.293266667,0.19,1.54351,989.0,980,1.00900
+1996,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.253766667,0.19,1.33561,1331.0,980,1.35800
+1997,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.2718,0.19,1.43053,1380.0,980,1.40800
+1998,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.398,0.19,2.09474,1373.0,980,1.40100
+1999,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.338633333,0.19,1.78228,1145.0,980,1.16800
+2000,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.319733333,0.19,1.68281,1244.0,980,1.26900
+2001,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.262433333,0.19,1.38123,934.0,980,0.95300
+2002,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.164533333,0.19,0.86596,872.0,980,0.89000
+2003,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.175066667,0.19,0.92140,984.0,980,1.00400
+2004,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.185333333,0.19,0.97544,812.0,980,0.82900
+2005,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.237966667,0.19,1.25246,863.0,980,0.88100
+2006,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.403966667,0.19,2.12614,828.0,980,0.84500
+2007,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.2564,0.19,1.34947,742.0,980,0.75700
+2008,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.2201,0.19,1.15842,673.0,980,0.68700
+2009,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.118766667,0.19,0.62509,676.0,980,0.69000
+2010,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.074533333,0.19,0.39228,733.0,980,0.74800
+2011,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.286533333,0.19,1.50807,1122.0,980,1.14500
+2012,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.261366667,0.19,1.37561,1184.0,980,1.20800
+2013,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.220566667,0.19,1.16088,1026.0,980,1.04700
+2014,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.430133333,0.19,2.26386,1097.0,980,1.11900
+2015,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.399666667,0.19,2.10351,986.0,980,1.00600
+2016,Bay of Biscay,Bay of Biscay,megrim,Bay of Biscay_megrim,0.210833333,0.19,1.10965,1340.0,980,1.36700
+1986,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.447033333,0.19,2.35281,4302.0,4600,0.93500
+1987,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.451066667,0.19,2.37404,6041.0,4600,1.31300
+1988,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.478933333,0.19,2.52070,6753.0,4600,1.46800
+1989,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.625033333,0.19,3.28965,6748.0,4600,1.46700
+1990,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.457833333,0.19,2.40965,5989.0,4600,1.30200
+1991,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.390966667,0.19,2.05772,5774.0,4600,1.25500
+1992,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.6154,0.19,3.23895,5455.0,4600,1.18600
+1993,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.5038,0.19,2.65158,5340.0,4600,1.16100
+1994,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.4792,0.19,2.52211,5612.0,4600,1.22000
+1995,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.599233333,0.19,3.15386,5013.0,4600,1.09000
+1996,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.5452,0.19,2.86947,4439.0,4600,0.96500
+1997,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.3557,0.19,1.87211,3915.0,4600,0.85100
+1998,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.408233333,0.19,2.14860,4586.0,4600,0.99700
+1999,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.4221,0.19,2.22158,4091.0,4600,0.88900
+2000,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.483666667,0.19,2.54561,3850.0,4600,0.83700
+2001,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.534366667,0.19,2.81246,3247.0,4600,0.70600
+2002,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.419333333,0.19,2.20702,3426.0,4600,0.74500
+2003,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.322533333,0.19,1.69754,3767.0,4600,0.81900
+2004,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.4438,0.19,2.33579,4094.0,4600,0.89000
+2005,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.3792,0.19,1.99579,4101.0,4600,0.89200
+2006,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.4508,0.19,2.37263,4704.0,4600,1.02300
+2007,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.361166667,0.19,1.90088,4647.0,4600,1.01000
+2008,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.272466667,0.19,1.43404,5369.0,4600,1.16700
+2009,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.297633333,0.19,1.56649,5302.0,4600,1.15300
+2010,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.2674,0.19,1.40737,5794.0,4600,1.26000
+2011,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.262266667,0.19,1.38035,5373.0,4600,1.16800
+2012,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.228766667,0.19,1.20404,6164.0,4600,1.34000
+2013,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.296666667,0.19,1.56140,5657.0,4600,1.23000
+2014,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.36,0.19,1.89474,6408.0,4600,1.39300
+2015,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.4357,0.19,2.29316,6733.0,4600,1.46400
+2016,Bay of Biscay,Bay of Biscay,four-spot megrim,Bay of Biscay_four-spot megrim,0.216866667,0.19,1.14140,7385.0,4600,1.60500
+1959,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.5216,0.23,2.26783,47701.0,29226,1.63200
+1960,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.6996,0.23,3.04174,53127.0,29226,1.81800
+1961,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.6356,0.23,2.76348,46618.0,29226,1.59500
+1962,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.5678,0.23,2.46870,43918.0,29226,1.50300
+1963,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.504,0.23,2.19130,50954.0,29226,1.74300
+1964,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.486,0.23,2.11304,56575.0,29226,1.93600
+1965,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.487,0.23,2.11739,54975.0,29226,1.88100
+1966,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.484,0.23,2.10435,53990.0,29226,1.84700
+1967,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.4636,0.23,2.01565,64341.0,29226,2.20100
+1968,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.4478,0.23,1.94696,75370.0,29226,2.57900
+1969,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.4772,0.23,2.07478,79830.0,29226,2.73100
+1970,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.3916,0.23,1.70261,78136.0,29226,2.67400
+1971,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.3832,0.23,1.66609,58015.0,29226,1.98500
+1972,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.3506,0.23,1.52435,50844.0,29226,1.74000
+1973,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.369,0.23,1.60435,69201.0,29226,2.36800
+1974,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.3788,0.23,1.64696,83773.0,29226,2.86600
+1975,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.479,0.23,2.08261,100568.0,29226,3.44100
+1976,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.6006,0.23,2.61130,107642.0,29226,3.68300
+1977,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.5758,0.23,2.50348,105152.0,29226,3.59800
+1978,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.4932,0.23,2.14435,73277.0,29226,2.50700
+1979,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.481,0.23,2.09130,61343.0,29226,2.09900
+1980,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.425,0.23,1.84783,54552.0,29226,1.86700
+1981,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.4696,0.23,2.04174,58756.0,29226,2.01000
+1982,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.4942,0.23,2.14870,60222.0,29226,2.06100
+1983,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.6492,0.23,2.82261,100271.0,29226,3.43100
+1984,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.5528,0.23,2.40348,122500.0,29226,4.19100
+1985,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.6996,0.23,3.04174,85830.0,29226,2.93700
+1986,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.6224,0.23,2.70609,73939.0,29226,2.53000
+1987,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.5482,0.23,2.38348,58926.0,29226,2.01600
+1988,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.6678,0.23,2.90348,50180.0,29226,1.71700
+1989,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.7566,0.23,3.28957,37235.0,29226,1.27400
+1990,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.6628,0.23,2.88174,30928.0,29226,1.05800
+1991,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.5114,0.23,2.22348,22016.0,29226,0.75300
+1992,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.4214,0.23,1.83217,16615.0,29226,0.56900
+1993,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.319,0.23,1.38696,25407.0,29226,0.86900
+1994,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.2982,0.23,1.29652,55852.0,29226,1.91100
+1995,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.4036,0.23,1.75478,60334.0,29226,2.06400
+1996,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.6424,0.23,2.79304,82137.0,29226,2.81000
+1997,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.8126,0.23,3.53304,75189.0,29226,2.57300
+1998,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.7536,0.23,3.27652,48902.0,29226,1.67300
+1999,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.7118,0.23,3.09478,37472.0,29226,1.28200
+2000,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.509,0.23,2.21304,38201.0,29226,1.30700
+2001,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.572,0.23,2.48696,56177.0,29226,1.92200
+2002,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.8016,0.23,3.48522,58186.0,29226,1.99100
+2003,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.7296,0.23,3.17217,44089.0,29226,1.50900
+2004,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.6374,0.23,2.77130,26057.0,29226,0.89200
+2005,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.7042,0.23,3.06174,21080.0,29226,0.72100
+2006,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.6498,0.23,2.82522,16707.0,29226,0.57200
+2007,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.5364,0.23,2.33217,14594.0,29226,0.49900
+2008,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.5542,0.23,2.40957,17976.0,29226,0.61500
+2009,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.5806,0.23,2.52435,19074.0,29226,0.65300
+2010,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.7298,0.23,3.17304,21981.0,29226,0.75200
+2011,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.5454,0.23,2.37130,19897.0,29226,0.68100
+2012,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.6532,0.23,2.84000,17296.0,29226,0.59200
+2013,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.4344,0.23,1.88870,15945.0,29226,0.54600
+2014,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.4104,0.23,1.78435,16773.0,29226,0.57400
+2015,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.5428,0.23,2.36000,16920.0,29226,0.57900
+2016,Faroe Plateau,Faroe Plateau,cod,Faroe Plateau_cod,0.439,0.23,1.90870,20277.0,29226,0.69400
+1957,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.4924,0.13,3.78769,50158.0,22843,2.19600
+1958,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.6382,0.13,4.90923,50504.0,22843,2.21100
+1959,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.6348,0.13,4.88308,45336.0,22843,1.98500
+1960,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.7266,0.13,5.58923,45184.0,22843,1.97800
+1961,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.6286,0.13,4.83538,42774.0,22843,1.87300
+1962,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.6896,0.13,5.30462,47550.0,22843,2.08200
+1963,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.7312,0.13,5.62462,48179.0,22843,2.10900
+1964,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.5314,0.13,4.08769,44843.0,22843,1.96300
+1965,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.5796,0.13,4.45846,44989.0,22843,1.96900
+1966,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.546,0.13,4.20000,41844.0,22843,1.83200
+1967,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.459,0.13,3.53077,37826.0,22843,1.65600
+1968,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.4866,0.13,3.74308,40214.0,22843,1.76000
+1969,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.5596,0.13,4.30462,46984.0,22843,2.05700
+1970,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.4958,0.13,3.81385,49721.0,22843,2.17700
+1971,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.5042,0.13,3.87846,49357.0,22843,2.16100
+1972,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.4482,0.13,3.44769,45001.0,22843,1.97000
+1973,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.4026,0.13,3.09692,42038.0,22843,1.84000
+1974,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.3116,0.13,2.39692,43996.0,22843,1.92600
+1975,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.2586,0.13,1.98923,57436.0,22843,2.51400
+1976,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.3072,0.13,2.36308,81012.0,22843,3.54600
+1977,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.3706,0.13,2.85077,82909.0,22843,3.63000
+1978,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.299,0.13,2.30000,80031.0,22843,3.50400
+1979,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.2108,0.13,1.62154,62235.0,22843,2.72400
+1980,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.272,0.13,2.09231,57002.0,22843,2.49500
+1981,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.2488,0.13,1.91385,51449.0,22843,2.25200
+1982,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.367,0.13,2.82308,40072.0,22843,1.75400
+1983,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.3314,0.13,2.54923,37402.0,22843,1.63700
+1984,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.2938,0.13,2.26000,41150.0,22843,1.80100
+1985,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.3122,0.13,2.40154,49568.0,22843,2.17000
+1986,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.2926,0.13,2.25077,54455.0,22843,2.38400
+1987,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.3314,0.13,2.54923,54261.0,22843,2.37500
+1988,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.275,0.13,2.11538,48946.0,22843,2.14300
+1989,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.3088,0.13,2.37538,41816.0,22843,1.83100
+1990,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.3512,0.13,2.70154,34817.0,22843,1.52400
+1991,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.3206,0.13,2.46615,26982.0,22843,1.18100
+1992,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.2688,0.13,2.06769,20141.0,22843,0.88200
+1993,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.2696,0.13,2.07385,17474.0,22843,0.76500
+1994,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.2326,0.13,1.78923,16780.0,22843,0.73500
+1995,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.2614,0.13,2.01077,18269.0,22843,0.80000
+1996,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.3106,0.13,2.38923,41129.0,22843,1.80100
+1997,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.36,0.13,2.76923,78402.0,22843,3.43200
+1998,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.5202,0.13,4.00154,75743.0,22843,3.31600
+1999,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.5134,0.13,3.94923,54561.0,22843,2.38900
+2000,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.413,0.13,3.17692,41580.0,22843,1.82000
+2001,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.3558,0.13,2.73692,51146.0,22843,2.23900
+2002,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.3684,0.13,2.83385,82414.0,22843,3.60800
+2003,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.429,0.13,3.30000,98249.0,22843,4.30100
+2004,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.4792,0.13,3.68615,83579.0,22843,3.65900
+2005,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.4224,0.13,3.24923,69544.0,22843,3.04400
+2006,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.4206,0.13,3.23538,51700.0,22843,2.26300
+2007,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.3852,0.13,2.96308,35408.0,22843,1.55000
+2008,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.335,0.13,2.57692,23292.0,22843,1.02000
+2009,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.3026,0.13,2.32769,17149.0,22843,0.75100
+2010,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.4076,0.13,3.13538,12908.0,22843,0.56500
+2011,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.4008,0.13,3.08308,9597.0,22843,0.42000
+2012,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.3184,0.13,2.44923,11717.0,22843,0.51300
+2013,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.3472,0.13,2.67077,13038.0,22843,0.57100
+2014,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.323,0.13,2.48462,11432.0,22843,0.50000
+2015,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.2994,0.13,2.30308,14625.0,22843,0.64000
+2016,Faroe Plateau,Faroe Plateau,haddock,Faroe Plateau_haddock,0.277,0.13,2.13077,15852.0,22843,0.69400
+1961,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.1052,0.3,0.35067,64187.0,41400,1.55000
+1962,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.1204,0.3,0.40133,68581.0,41400,1.65700
+1963,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.1312,0.3,0.43733,77255.0,41400,1.86600
+1964,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.1648,0.3,0.54933,88050.0,41400,2.12700
+1965,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.1892,0.3,0.63067,98159.0,41400,2.37100
+1966,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.1928,0.3,0.64267,102611.0,41400,2.47900
+1967,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.1674,0.3,0.55800,97372.0,41400,2.35200
+1968,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.1726,0.3,0.57533,98458.0,41400,2.37800
+1969,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.2028,0.3,0.67600,104398.0,41400,2.52200
+1970,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.1992,0.3,0.66400,109182.0,41400,2.63700
+1971,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.1944,0.3,0.64800,120998.0,41400,2.92300
+1972,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.2542,0.3,0.84733,139214.0,41400,3.36300
+1973,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.2866,0.3,0.95533,158701.0,41400,3.83300
+1974,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.2876,0.3,0.95867,150301.0,41400,3.63000
+1975,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.2716,0.3,0.90533,153389.0,41400,3.70500
+1976,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.2624,0.3,0.87467,134904.0,41400,3.25900
+1977,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.2714,0.3,0.90467,127312.0,41400,3.07500
+1978,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.253,0.3,0.84333,114899.0,41400,2.77500
+1979,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.262,0.3,0.87333,102702.0,41400,2.48100
+1980,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.274,0.3,0.91333,100869.0,41400,2.43600
+1981,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.3372,0.3,1.12400,81927.0,41400,1.97900
+1982,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.3544,0.3,1.18133,76474.0,41400,1.84700
+1983,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.4274,0.3,1.42467,78536.0,41400,1.89700
+1984,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.4332,0.3,1.44400,86756.0,41400,2.09600
+1985,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.4326,0.3,1.44200,97099.0,41400,2.34500
+1986,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.493,0.3,1.64333,87688.0,41400,2.11800
+1987,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.471,0.3,1.57000,84457.0,41400,2.04000
+1988,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.4172,0.3,1.39067,92989.0,41400,2.24600
+1989,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.393,0.3,1.31000,102112.0,41400,2.46600
+1990,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.4742,0.3,1.58067,99192.0,41400,2.39600
+1991,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.6262,0.3,2.08733,81502.0,41400,1.96900
+1992,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.5634,0.3,1.87800,65266.0,41400,1.57600
+1993,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.4808,0.3,1.60267,63803.0,41400,1.54100
+1994,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.4372,0.3,1.45733,61408.0,41400,1.48300
+1995,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.445,0.3,1.48333,59729.0,41400,1.44300
+1996,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.3578,0.3,1.19267,47695.0,41400,1.15200
+1997,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.3466,0.3,1.15533,49700.0,41400,1.20000
+1998,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.3436,0.3,1.14533,61146.0,41400,1.47700
+1999,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.3656,0.3,1.21867,71033.0,41400,1.71600
+2000,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.3698,0.3,1.23267,80544.0,41400,1.94600
+2001,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.4838,0.3,1.61267,92231.0,41400,2.22800
+2002,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.4222,0.3,1.40733,96505.0,41400,2.33100
+2003,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.3838,0.3,1.27933,103900.0,41400,2.51000
+2004,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.3904,0.3,1.30133,117073.0,41400,2.82800
+2005,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.4156,0.3,1.38533,114394.0,41400,2.76300
+2006,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.5102,0.3,1.70067,102030.0,41400,2.46400
+2007,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.5296,0.3,1.76533,85134.0,41400,2.05600
+2008,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.555,0.3,1.85000,77408.0,41400,1.87000
+2009,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.5578,0.3,1.85933,73308.0,41400,1.77100
+2010,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.5898,0.3,1.96600,58407.0,41400,1.41100
+2011,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.5156,0.3,1.71867,46897.0,41400,1.13300
+2012,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.5274,0.3,1.75800,42630.0,41400,1.03000
+2013,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.4746,0.3,1.58200,41400.0,41400,1.00000
+2014,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.4372,0.3,1.45733,49035.0,41400,1.18400
+2015,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.4974,0.3,1.65800,48507.0,41400,1.17200
+2016,Faroe Plateau,Faroe Plateau,saithe,Faroe Plateau_saithe,0.421,0.3,1.40333,56022.0,41400,1.35300
+1955,Icelandic,Icelandic,cod,Icelandic_cod,0.288333333,0.2,1.44167,936957.0,160000,5.85600
+1956,Icelandic,Icelandic,cod,Icelandic_cod,0.29,0.2,1.45000,791479.0,160000,4.94700
+1957,Icelandic,Icelandic,cod,Icelandic_cod,0.31,0.2,1.55000,771545.0,160000,4.82200
+1958,Icelandic,Icelandic,cod,Icelandic_cod,0.353333333,0.2,1.76667,871819.0,160000,5.44900
+1959,Icelandic,Icelandic,cod,Icelandic_cod,0.321666667,0.2,1.60833,849812.0,160000,5.31100
+1960,Icelandic,Icelandic,cod,Icelandic_cod,0.371666667,0.2,1.85833,707616.0,160000,4.42300
+1961,Icelandic,Icelandic,cod,Icelandic_cod,0.355,0.2,1.77500,466533.0,160000,2.91600
+1962,Icelandic,Icelandic,cod,Icelandic_cod,0.381666667,0.2,1.90833,568226.0,160000,3.55100
+1963,Icelandic,Icelandic,cod,Icelandic_cod,0.458333333,0.2,2.29167,507238.0,160000,3.17000
+1964,Icelandic,Icelandic,cod,Icelandic_cod,0.546666667,0.2,2.73333,450537.0,160000,2.81600
+1965,Icelandic,Icelandic,cod,Icelandic_cod,0.573333333,0.2,2.86667,317427.0,160000,1.98400
+1966,Icelandic,Icelandic,cod,Icelandic_cod,0.588333333,0.2,2.94167,277117.0,160000,1.73200
+1967,Icelandic,Icelandic,cod,Icelandic_cod,0.56,0.2,2.80000,256385.0,160000,1.60200
+1968,Icelandic,Icelandic,cod,Icelandic_cod,0.723333333,0.2,3.61667,221564.0,160000,1.38500
+1969,Icelandic,Icelandic,cod,Icelandic_cod,0.556666667,0.2,2.78333,313646.0,160000,1.96000
+1970,Icelandic,Icelandic,cod,Icelandic_cod,0.611666667,0.2,3.05833,331062.0,160000,2.06900
+1971,Icelandic,Icelandic,cod,Icelandic_cod,0.685,0.2,3.42500,242547.0,160000,1.51600
+1972,Icelandic,Icelandic,cod,Icelandic_cod,0.693333333,0.2,3.46667,221848.0,160000,1.38700
+1973,Icelandic,Icelandic,cod,Icelandic_cod,0.703333333,0.2,3.51667,245538.0,160000,1.53500
+1974,Icelandic,Icelandic,cod,Icelandic_cod,0.761666667,0.2,3.80833,187230.0,160000,1.17000
+1975,Icelandic,Icelandic,cod,Icelandic_cod,0.806666667,0.2,4.03333,168577.0,160000,1.05400
+1976,Icelandic,Icelandic,cod,Icelandic_cod,0.743333333,0.2,3.71667,138864.0,160000,0.86800
+1977,Icelandic,Icelandic,cod,Icelandic_cod,0.59,0.2,2.95000,199152.0,160000,1.24500
+1978,Icelandic,Icelandic,cod,Icelandic_cod,0.471666667,0.2,2.35833,212854.0,160000,1.33000
+1979,Icelandic,Icelandic,cod,Icelandic_cod,0.443333333,0.2,2.21667,304741.0,160000,1.90500
+1980,Icelandic,Icelandic,cod,Icelandic_cod,0.491666667,0.2,2.45833,357419.0,160000,2.23400
+1981,Icelandic,Icelandic,cod,Icelandic_cod,0.661666667,0.2,3.30833,264788.0,160000,1.65500
+1982,Icelandic,Icelandic,cod,Icelandic_cod,0.726666667,0.2,3.63333,168127.0,160000,1.05100
+1983,Icelandic,Icelandic,cod,Icelandic_cod,0.71,0.2,3.55000,131064.0,160000,0.81900
+1984,Icelandic,Icelandic,cod,Icelandic_cod,0.636666667,0.2,3.18333,142138.0,160000,0.88800
+1985,Icelandic,Icelandic,cod,Icelandic_cod,0.665,0.2,3.32500,162773.0,160000,1.01700
+1986,Icelandic,Icelandic,cod,Icelandic_cod,0.773333333,0.2,3.86667,195326.0,160000,1.22100
+1987,Icelandic,Icelandic,cod,Icelandic_cod,0.86,0.2,4.30000,149477.0,160000,0.93400
+1988,Icelandic,Icelandic,cod,Icelandic_cod,0.891666667,0.2,4.45833,167110.0,160000,1.04400
+1989,Icelandic,Icelandic,cod,Icelandic_cod,0.715,0.2,3.57500,170219.0,160000,1.06400
+1990,Icelandic,Icelandic,cod,Icelandic_cod,0.696666667,0.2,3.48333,208954.0,160000,1.30600
+1991,Icelandic,Icelandic,cod,Icelandic_cod,0.796666667,0.2,3.98333,164827.0,160000,1.03000
+1992,Icelandic,Icelandic,cod,Icelandic_cod,0.841666667,0.2,4.20833,152750.0,160000,0.95500
+1993,Icelandic,Icelandic,cod,Icelandic_cod,0.866666667,0.2,4.33333,121603.0,160000,0.76000
+1994,Icelandic,Icelandic,cod,Icelandic_cod,0.62,0.2,3.10000,157885.0,160000,0.98700
+1995,Icelandic,Icelandic,cod,Icelandic_cod,0.505,0.2,2.52500,178346.0,160000,1.11500
+1996,Icelandic,Icelandic,cod,Icelandic_cod,0.501666667,0.2,2.50833,160307.0,160000,1.00200
+1997,Icelandic,Icelandic,cod,Icelandic_cod,0.536666667,0.2,2.68333,189355.0,160000,1.18300
+1998,Icelandic,Icelandic,cod,Icelandic_cod,0.64,0.2,3.20000,201252.0,160000,1.25800
+1999,Icelandic,Icelandic,cod,Icelandic_cod,0.716666667,0.2,3.58333,182945.0,160000,1.14300
+2000,Icelandic,Icelandic,cod,Icelandic_cod,0.72,0.2,3.60000,172963.0,160000,1.08100
+2001,Icelandic,Icelandic,cod,Icelandic_cod,0.716666667,0.2,3.58333,171565.0,160000,1.07200
+2002,Icelandic,Icelandic,cod,Icelandic_cod,0.626666667,0.2,3.13333,201024.0,160000,1.25600
+2003,Icelandic,Icelandic,cod,Icelandic_cod,0.593333333,0.2,2.96667,193265.0,160000,1.20800
+2004,Icelandic,Icelandic,cod,Icelandic_cod,0.603333333,0.2,3.01667,201184.0,160000,1.25700
+2005,Icelandic,Icelandic,cod,Icelandic_cod,0.566666667,0.2,2.83333,228840.0,160000,1.43000
+2006,Icelandic,Icelandic,cod,Icelandic_cod,0.55,0.2,2.75000,220981.0,160000,1.38100
+2007,Icelandic,Icelandic,cod,Icelandic_cod,0.515,0.2,2.57500,207098.0,160000,1.29400
+2008,Icelandic,Icelandic,cod,Icelandic_cod,0.405,0.2,2.02500,263861.0,160000,1.64900
+2009,Icelandic,Icelandic,cod,Icelandic_cod,0.396666667,0.2,1.98333,250112.0,160000,1.56300
+2010,Icelandic,Icelandic,cod,Icelandic_cod,0.328333333,0.2,1.64167,288159.0,160000,1.80100
+2011,Icelandic,Icelandic,cod,Icelandic_cod,0.298333333,0.2,1.49167,358182.0,160000,2.23900
+2012,Icelandic,Icelandic,cod,Icelandic_cod,0.29,0.2,1.45000,404550.0,160000,2.52800
+2013,Icelandic,Icelandic,cod,Icelandic_cod,0.3,0.2,1.50000,440439.0,160000,2.75300
+2014,Icelandic,Icelandic,cod,Icelandic_cod,0.283333333,0.2,1.41667,413113.0,160000,2.58200
+2015,Icelandic,Icelandic,cod,Icelandic_cod,0.266666667,0.2,1.33333,532915.0,160000,3.33100
+2016,Icelandic,Icelandic,cod,Icelandic_cod,0.28,0.2,1.40000,472782.0,160000,2.95500
+1979,Icelandic,Icelandic,haddock,Icelandic_haddock,0.52075,0.52,1.00144,96072.2,59000,1.62834
+1980,Icelandic,Icelandic,haddock,Icelandic_haddock,0.39775,0.52,0.76490,116521.0,59000,1.97493
+1981,Icelandic,Icelandic,haddock,Icelandic_haddock,0.54225,0.52,1.04279,141628.0,59000,2.40047
+1982,Icelandic,Icelandic,haddock,Icelandic_haddock,0.44425,0.52,0.85433,136817.0,59000,2.31893
+1983,Icelandic,Icelandic,haddock,Icelandic_haddock,0.50825,0.52,0.97740,112589.0,59000,1.90829
+1984,Icelandic,Icelandic,haddock,Icelandic_haddock,0.515,0.52,0.99038,82961.1,59000,1.40612
+1985,Icelandic,Icelandic,haddock,Icelandic_haddock,0.537,0.52,1.03269,66652.0,59000,1.12969
+1986,Icelandic,Icelandic,haddock,Icelandic_haddock,0.739,0.52,1.42115,59837.2,59000,1.01419
+1987,Icelandic,Icelandic,haddock,Icelandic_haddock,0.58375,0.52,1.12260,46298.1,59000,0.78471
+1988,Icelandic,Icelandic,haddock,Icelandic_haddock,0.6755,0.52,1.29904,69391.3,59000,1.17612
+1989,Icelandic,Icelandic,haddock,Icelandic_haddock,0.6765,0.52,1.30096,99536.9,59000,1.68707
+1990,Icelandic,Icelandic,haddock,Icelandic_haddock,0.61075,0.52,1.17452,110745.0,59000,1.87703
+1991,Icelandic,Icelandic,haddock,Icelandic_haddock,0.6645,0.52,1.27788,89825.2,59000,1.52246
+1992,Icelandic,Icelandic,haddock,Icelandic_haddock,0.728,0.52,1.40000,66378.7,59000,1.12506
+1993,Icelandic,Icelandic,haddock,Icelandic_haddock,0.66875,0.52,1.28606,71000.4,59000,1.20340
+1994,Icelandic,Icelandic,haddock,Icelandic_haddock,0.64075,0.52,1.23221,83294.9,59000,1.41178
+1995,Icelandic,Icelandic,haddock,Icelandic_haddock,0.66075,0.52,1.27067,85053.5,59000,1.44158
+1996,Icelandic,Icelandic,haddock,Icelandic_haddock,0.67525,0.52,1.29856,70008.3,59000,1.18658
+1997,Icelandic,Icelandic,haddock,Icelandic_haddock,0.62425,0.52,1.20048,58992.6,59000,0.99987
+1998,Icelandic,Icelandic,haddock,Icelandic_haddock,0.62675,0.52,1.20529,64203.3,59000,1.08819
+1999,Icelandic,Icelandic,haddock,Icelandic_haddock,0.68475,0.52,1.31683,64439.5,59000,1.09219
+2000,Icelandic,Icelandic,haddock,Icelandic_haddock,0.636,0.52,1.22308,63509.1,59000,1.07643
+2001,Icelandic,Icelandic,haddock,Icelandic_haddock,0.4615,0.52,0.88750,70366.4,59000,1.19265
+2002,Icelandic,Icelandic,haddock,Icelandic_haddock,0.461,0.52,0.88654,99344.0,59000,1.68380
+2003,Icelandic,Icelandic,haddock,Icelandic_haddock,0.4035,0.52,0.77596,147523.0,59000,2.50039
+2004,Icelandic,Icelandic,haddock,Icelandic_haddock,0.49125,0.52,0.94471,181306.0,59000,3.07298
+2005,Icelandic,Icelandic,haddock,Icelandic_haddock,0.52175,0.52,1.00337,177009.0,59000,3.00015
+2006,Icelandic,Icelandic,haddock,Icelandic_haddock,0.57725,0.52,1.11010,143351.0,59000,2.42968
+2007,Icelandic,Icelandic,haddock,Icelandic_haddock,0.555,0.52,1.06731,161863.0,59000,2.74344
+2008,Icelandic,Icelandic,haddock,Icelandic_haddock,0.475,0.52,0.91346,157129.0,59000,2.66320
+2009,Icelandic,Icelandic,haddock,Icelandic_haddock,0.504,0.52,0.96923,14053.0,59000,0.23819
+2010,Icelandic,Icelandic,haddock,Icelandic_haddock,0.469,0.52,0.90192,111675.0,59000,1.89280
+2011,Icelandic,Icelandic,haddock,Icelandic_haddock,0.402,0.52,0.77308,95223.6,59000,1.61396
+2012,Icelandic,Icelandic,haddock,Icelandic_haddock,0.331,0.52,0.63654,92235.6,59000,1.56332
+2013,Icelandic,Icelandic,haddock,Icelandic_haddock,0.3245,0.52,0.62404,97704.5,59000,1.65601
+2014,Icelandic,Icelandic,haddock,Icelandic_haddock,0.27525,0.52,0.52933,75511.1,59000,1.27985
+2015,Icelandic,Icelandic,haddock,Icelandic_haddock,0.373,0.52,0.71731,86573.0,59000,1.46734
+2016,Icelandic,Icelandic,haddock,Icelandic_haddock,0.3725,0.52,0.71635,77009.7,59000,1.30525
+1980,Icelandic,Icelandic,saithe,Icelandic_saithe,0.294166667,0.2,1.47083,113000.0,61000,1.85200
+1981,Icelandic,Icelandic,saithe,Icelandic_saithe,0.263,0.2,1.31500,120000.0,61000,1.96700
+1982,Icelandic,Icelandic,saithe,Icelandic_saithe,0.303333333,0.2,1.51667,137000.0,61000,2.24600
+1983,Icelandic,Icelandic,saithe,Icelandic_saithe,0.242666667,0.2,1.21333,137000.0,61000,2.24600
+1984,Icelandic,Icelandic,saithe,Icelandic_saithe,0.231,0.2,1.15500,140000.0,61000,2.29500
+1985,Icelandic,Icelandic,saithe,Icelandic_saithe,0.245,0.2,1.22500,138000.0,61000,2.26200
+1986,Icelandic,Icelandic,saithe,Icelandic_saithe,0.282,0.2,1.41000,136000.0,61000,2.23000
+1987,Icelandic,Icelandic,saithe,Icelandic_saithe,0.351,0.2,1.75500,128000.0,61000,2.09800
+1988,Icelandic,Icelandic,saithe,Icelandic_saithe,0.3225,0.2,1.61250,125000.0,61000,2.04900
+1989,Icelandic,Icelandic,saithe,Icelandic_saithe,0.3065,0.2,1.53250,128000.0,61000,2.09800
+1990,Icelandic,Icelandic,saithe,Icelandic_saithe,0.349666667,0.2,1.74833,135000.0,61000,2.21300
+1991,Icelandic,Icelandic,saithe,Icelandic_saithe,0.374166667,0.2,1.87083,144000.0,61000,2.36100
+1992,Icelandic,Icelandic,saithe,Icelandic_saithe,0.3665,0.2,1.83250,136000.0,61000,2.23000
+1993,Icelandic,Icelandic,saithe,Icelandic_saithe,0.398,0.2,1.99000,112000.0,61000,1.83600
+1994,Icelandic,Icelandic,saithe,Icelandic_saithe,0.451,0.2,2.25500,93000.0,61000,1.52500
+1995,Icelandic,Icelandic,saithe,Icelandic_saithe,0.460833333,0.2,2.30417,69000.0,61000,1.13100
+1996,Icelandic,Icelandic,saithe,Icelandic_saithe,0.403,0.2,2.01500,60000.0,61000,0.98400
+1997,Icelandic,Icelandic,saithe,Icelandic_saithe,0.363166667,0.2,1.81583,61000.0,61000,1.00000
+1998,Icelandic,Icelandic,saithe,Icelandic_saithe,0.295,0.2,1.47500,68000.0,61000,1.11500
+1999,Icelandic,Icelandic,saithe,Icelandic_saithe,0.307833333,0.2,1.53917,73000.0,61000,1.19700
+2000,Icelandic,Icelandic,saithe,Icelandic_saithe,0.324666667,0.2,1.62333,75000.0,61000,1.23000
+2001,Icelandic,Icelandic,saithe,Icelandic_saithe,0.272833333,0.2,1.36417,82000.0,61000,1.34400
+2002,Icelandic,Icelandic,saithe,Icelandic_saithe,0.297666667,0.2,1.48833,100000.0,61000,1.63900
+2003,Icelandic,Icelandic,saithe,Icelandic_saithe,0.292166667,0.2,1.46083,123000.0,61000,2.01600
+2004,Icelandic,Icelandic,saithe,Icelandic_saithe,0.256333333,0.2,1.28167,142000.0,61000,2.32800
+2005,Icelandic,Icelandic,saithe,Icelandic_saithe,0.281166667,0.2,1.40583,151000.0,61000,2.47500
+2006,Icelandic,Icelandic,saithe,Icelandic_saithe,0.3025,0.2,1.51250,157000.0,61000,2.57400
+2007,Icelandic,Icelandic,saithe,Icelandic_saithe,0.278,0.2,1.39000,153000.0,61000,2.50800
+2008,Icelandic,Icelandic,saithe,Icelandic_saithe,0.320666667,0.2,1.60333,151000.0,61000,2.47500
+2009,Icelandic,Icelandic,saithe,Icelandic_saithe,0.301333333,0.2,1.50667,139000.0,61000,2.27900
+2010,Icelandic,Icelandic,saithe,Icelandic_saithe,0.27,0.2,1.35000,129000.0,61000,2.11500
+2011,Icelandic,Icelandic,saithe,Icelandic_saithe,0.248166667,0.2,1.24083,123000.0,61000,2.01600
+2012,Icelandic,Icelandic,saithe,Icelandic_saithe,0.240166667,0.2,1.20083,121000.0,61000,1.98400
+2013,Icelandic,Icelandic,saithe,Icelandic_saithe,0.2605,0.2,1.30250,126000.0,61000,2.06600
+2014,Icelandic,Icelandic,saithe,Icelandic_saithe,0.195,0.2,0.97500,129000.0,61000,2.11500
+2015,Icelandic,Icelandic,saithe,Icelandic_saithe,0.1915,0.2,0.95750,140000.0,61000,2.29500
+2016,Icelandic,Icelandic,saithe,Icelandic_saithe,0.182333333,0.2,0.91167,150000.0,61000,2.45900
+1987,Icelandic,Icelandic,herring,Icelandic_herring,0.406333333,0.22,1.84697,384000.0,273000,1.40700
+1988,Icelandic,Icelandic,herring,Icelandic_herring,0.582666667,0.22,2.64848,423000.0,273000,1.54900
+1989,Icelandic,Icelandic,herring,Icelandic_herring,0.3755,0.22,1.70682,386000.0,273000,1.41400
+1990,Icelandic,Icelandic,herring,Icelandic_herring,0.434166667,0.22,1.97348,350000.0,273000,1.28200
+1991,Icelandic,Icelandic,herring,Icelandic_herring,0.433833333,0.22,1.97197,310000.0,273000,1.13600
+1992,Icelandic,Icelandic,herring,Icelandic_herring,0.458,0.22,2.08182,343000.0,273000,1.25600
+1993,Icelandic,Icelandic,herring,Icelandic_herring,0.288666667,0.22,1.31212,424000.0,273000,1.55300
+1994,Icelandic,Icelandic,herring,Icelandic_herring,0.391666667,0.22,1.78030,441000.0,273000,1.61500
+1995,Icelandic,Icelandic,herring,Icelandic_herring,0.399,0.22,1.81364,406000.0,273000,1.48700
+1996,Icelandic,Icelandic,herring,Icelandic_herring,0.38,0.22,1.72727,307000.0,273000,1.12500
+1997,Icelandic,Icelandic,herring,Icelandic_herring,0.292166667,0.22,1.32803,269000.0,273000,0.98500
+1998,Icelandic,Icelandic,herring,Icelandic_herring,0.2675,0.22,1.21591,298000.0,273000,1.09200
+1999,Icelandic,Icelandic,herring,Icelandic_herring,0.340666667,0.22,1.54848,290000.0,273000,1.06200
+2000,Icelandic,Icelandic,herring,Icelandic_herring,0.297666667,0.22,1.35303,306000.0,273000,1.12100
+2001,Icelandic,Icelandic,herring,Icelandic_herring,0.392666667,0.22,1.78485,272000.0,273000,0.99600
+2002,Icelandic,Icelandic,herring,Icelandic_herring,0.445333333,0.22,2.02424,298000.0,273000,1.09200
+2003,Icelandic,Icelandic,herring,Icelandic_herring,0.299333333,0.22,1.36061,390000.0,273000,1.42900
+2004,Icelandic,Icelandic,herring,Icelandic_herring,0.2335,0.22,1.06136,488000.0,273000,1.78800
+2005,Icelandic,Icelandic,herring,Icelandic_herring,0.26,0.22,1.18182,528000.0,273000,1.93400
+2006,Icelandic,Icelandic,herring,Icelandic_herring,0.1435,0.22,0.65227,616000.0,273000,2.25600
+2007,Icelandic,Icelandic,herring,Icelandic_herring,0.333166667,0.22,1.51439,572000.0,273000,2.09500
+2008,Icelandic,Icelandic,herring,Icelandic_herring,0.340833333,0.22,1.54924,570000.0,273000,2.08800
+2009,Icelandic,Icelandic,herring,Icelandic_herring,0.086,0.22,0.39091,497000.0,273000,1.82100
+2010,Icelandic,Icelandic,herring,Icelandic_herring,0.0975,0.22,0.44318,459000.0,273000,1.68100
+2011,Icelandic,Icelandic,herring,Icelandic_herring,0.126,0.22,0.57273,430000.0,273000,1.57500
+2012,Icelandic,Icelandic,herring,Icelandic_herring,0.370166667,0.22,1.68258,429000.0,273000,1.57100
+2013,Icelandic,Icelandic,herring,Icelandic_herring,0.214166667,0.22,0.97348,379000.0,273000,1.38800
+2014,Icelandic,Icelandic,herring,Icelandic_herring,0.331333333,0.22,1.50606,391000.0,273000,1.43200
+2015,Icelandic,Icelandic,herring,Icelandic_herring,0.2605,0.22,1.18409,324000.0,273000,1.18700
+2016,Icelandic,Icelandic,herring,Icelandic_herring,0.25,0.22,1.13636,284000.0,273000,1.04000
+1981,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.7365,0.17,4.33235,40438.0,22000,1.83800
+1982,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.66425,0.17,3.90735,38122.0,22000,1.73300
+1983,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.74425,0.17,4.37794,34059.0,22000,1.54800
+1984,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.8785,0.17,5.16765,31788.0,22000,1.44500
+1985,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.99275,0.17,5.83971,25146.0,22000,1.14300
+1986,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.7795,0.17,4.58529,19582.0,22000,0.89000
+1987,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.91975,0.17,5.41029,20856.0,22000,0.94800
+1988,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.88675,0.17,5.21618,26822.0,22000,1.21900
+1989,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.953,0.17,5.60588,23007.0,22000,1.04600
+1990,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.787,0.17,4.62941,18891.0,22000,0.85900
+1991,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.82825,0.17,4.87206,15623.0,22000,0.71000
+1992,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.8345,0.17,4.90882,13206.0,22000,0.60000
+1993,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.83175,0.17,4.89265,16511.0,22000,0.75100
+1994,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.7935,0.17,4.66765,17265.0,22000,0.78500
+1995,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.812,0.17,4.77647,17722.0,22000,0.80600
+1996,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.94125,0.17,5.53676,17742.0,22000,0.80600
+1997,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,1.00475,0.17,5.91029,12953.0,22000,0.58900
+1998,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.972,0.17,5.71765,11199.0,22000,0.50900
+1999,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,1.05275,0.17,6.19265,10013.0,22000,0.45500
+2000,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.9415,0.17,5.53824,7007.0,22000,0.31900
+2001,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.999,0.17,5.87647,7696.0,22000,0.35000
+2002,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,1.04975,0.17,6.17500,7521.0,22000,0.34200
+2003,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,1.058,0.17,6.22353,5787.0,22000,0.26300
+2004,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,1.01075,0.17,5.94559,3665.0,22000,0.16700
+2005,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,1.1875,0.17,6.98529,2335.0,22000,0.10600
+2006,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.88175,0.17,5.18676,1435.0,22000,0.06500
+2007,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,1.0665,0.17,6.27353,2400.0,22000,0.10900
+2008,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,1.00675,0.17,5.92206,2450.0,22000,0.11100
+2009,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.87075,0.17,5.12206,1942.0,22000,0.08800
+2010,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.8445,0.17,4.96765,2219.0,22000,0.10100
+2011,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,1.106,0.17,6.50588,2648.0,22000,0.12000
+2012,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.879,0.17,5.17059,2564.0,22000,0.11700
+2013,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.899,0.17,5.28824,2214.0,22000,0.10100
+2014,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.75075,0.17,4.41618,2296.0,22000,0.10400
+2015,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.688,0.17,4.04706,2762.0,22000,0.12600
+2016,Celtic Seas,Celtic Sea 6.d.,cod,Celtic Sea 6.d._cod,0.9445,0.17,5.55588,2741.0,22000,0.12500
+1968,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.597786667,0.31,1.92834,15734.1,8161,1.92800
+1969,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.794666667,0.31,2.56344,15283.4,8161,1.87300
+1970,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.59516,0.31,1.91987,11725.9,8161,1.43700
+1971,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.655036667,0.31,2.11302,12869.5,8161,1.57700
+1972,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.575633333,0.31,1.85688,16333.1,8161,2.00100
+1973,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.74596,0.31,2.40632,20602.6,8161,2.52500
+1974,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.66852,0.31,2.15652,17296.2,8161,2.11900
+1975,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.745003333,0.31,2.40324,17762.1,8161,2.17600
+1976,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.755643333,0.31,2.43756,13797.3,8161,1.69100
+1977,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.776886667,0.31,2.50609,13253.4,8161,1.62400
+1978,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.561906667,0.31,1.81260,9765.3,8161,1.19700
+1979,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.654313333,0.31,2.11069,10631.2,8161,1.30300
+1980,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.67391,0.31,2.17390,12487.6,8161,1.53000
+1981,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.75268,0.31,2.42800,17600.7,8161,2.15700
+1982,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.841693333,0.31,2.71514,20101.6,8161,2.46300
+1983,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.773566667,0.31,2.49538,16519.4,8161,2.02400
+1984,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.74325,0.31,2.39758,11629.8,8161,1.42500
+1985,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.81381,0.31,2.62519,11898.1,8161,1.45800
+1986,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.812236667,0.31,2.62012,12202.3,8161,1.49500
+1987,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.941363333,0.31,3.03666,13020.5,8161,1.59500
+1988,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.975153333,0.31,3.14566,12447.9,8161,1.52500
+1989,Celtic Seas,Irish Sea,cod,Irish Sea_cod,1.096376667,0.31,3.53670,14033.9,8161,1.72000
+1990,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.888413333,0.31,2.86585,9853.8,8161,1.20700
+1991,Celtic Seas,Irish Sea,cod,Irish Sea_cod,1.10941,0.31,3.57874,7102.7,8161,0.87000
+1992,Celtic Seas,Irish Sea,cod,Irish Sea_cod,1.169643333,0.31,3.77304,6037.2,8161,0.74000
+1993,Celtic Seas,Irish Sea,cod,Irish Sea_cod,1.26299,0.31,4.07416,5745.1,8161,0.70400
+1994,Celtic Seas,Irish Sea,cod,Irish Sea_cod,1.32706,0.31,4.28084,4929.9,8161,0.60400
+1995,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.943043333,0.31,3.04208,3528.1,8161,0.43200
+1996,Celtic Seas,Irish Sea,cod,Irish Sea_cod,1.010763333,0.31,3.26053,4418.0,8161,0.54100
+1997,Celtic Seas,Irish Sea,cod,Irish Sea_cod,1.062823333,0.31,3.42846,5235.9,8161,0.64200
+1998,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.96318,0.31,3.10703,5796.2,8161,0.71000
+1999,Celtic Seas,Irish Sea,cod,Irish Sea_cod,1.801483333,0.31,5.81124,5239.5,8161,0.64200
+2000,Celtic Seas,Irish Sea,cod,Irish Sea_cod,1.451133333,0.31,4.68108,1520.3,8161,0.18600
+2001,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.996146667,0.31,3.21338,2655.4,8161,0.32500
+2002,Celtic Seas,Irish Sea,cod,Irish Sea_cod,1.407903333,0.31,4.54162,3045.7,8161,0.37300
+2003,Celtic Seas,Irish Sea,cod,Irish Sea_cod,1.016616667,0.31,3.27941,2228.1,8161,0.27300
+2004,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.941536667,0.31,3.03722,2020.6,8161,0.24800
+2005,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.948853333,0.31,3.06082,1920.6,8161,0.23500
+2006,Celtic Seas,Irish Sea,cod,Irish Sea_cod,1.127946667,0.31,3.63854,1630.6,8161,0.20000
+2007,Celtic Seas,Irish Sea,cod,Irish Sea_cod,1.072293333,0.31,3.45901,1473.1,8161,0.18100
+2008,Celtic Seas,Irish Sea,cod,Irish Sea_cod,1.116513333,0.31,3.60166,1362.0,8161,0.16700
+2009,Celtic Seas,Irish Sea,cod,Irish Sea_cod,1.095573333,0.31,3.53411,863.3,8161,0.10600
+2010,Celtic Seas,Irish Sea,cod,Irish Sea_cod,1.03461,0.31,3.33745,1080.8,8161,0.13200
+2011,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.347266667,0.31,1.12022,1422.9,8161,0.17400
+2012,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.595193333,0.31,1.91998,1970.7,8161,0.24100
+2013,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.176073333,0.31,0.56798,2308.9,8161,0.28300
+2014,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.116983333,0.31,0.37737,3929.3,8161,0.48100
+2015,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.067,0.31,0.21613,5759.2,8161,0.70600
+2016,Celtic Seas,Irish Sea,cod,Irish Sea_cod,0.02829,0.31,0.09126,7173.1,8161,0.87900
+1971,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.557,0.35,1.59143,10093.0,10300,0.98000
+1972,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.517,0.35,1.47714,9298.0,10300,0.90300
+1973,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.541,0.35,1.54571,8617.0,10300,0.83700
+1974,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.375,0.35,1.07143,8327.0,10300,0.80800
+1975,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.678,0.35,1.93714,7526.0,10300,0.73100
+1976,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.554,0.35,1.58286,7316.0,10300,0.71000
+1977,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.349,0.35,0.99714,8841.0,10300,0.85800
+1978,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.361,0.35,1.03143,9689.0,10300,0.94100
+1979,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.468,0.35,1.33714,9848.0,10300,0.95600
+1980,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.694,0.35,1.98286,10347.0,10300,1.00500
+1981,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.808,0.35,2.30857,11212.0,10300,1.08900
+1982,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.64,0.35,1.82857,13547.0,10300,1.31500
+1983,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.834,0.35,2.38286,13008.0,10300,1.26300
+1984,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.532,0.35,1.52000,9568.0,10300,0.92900
+1985,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.539,0.35,1.54000,13103.0,10300,1.27200
+1986,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.787,0.35,2.24857,13692.0,10300,1.32900
+1987,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.811,0.35,2.31714,11364.0,10300,1.10300
+1988,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.639,0.35,1.82571,16607.0,10300,1.61200
+1989,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.817,0.35,2.33429,26324.0,10300,2.55600
+1990,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.855,0.35,2.44286,19126.0,10300,1.85700
+1991,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.981,0.35,2.80286,10846.0,10300,1.05300
+1992,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.852,0.35,2.43429,9074.0,10300,0.88100
+1993,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.749,0.35,2.14000,12281.0,10300,1.19200
+1994,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.749,0.35,2.14000,14360.0,10300,1.39400
+1995,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.726,0.35,2.07429,13027.0,10300,1.26500
+1996,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.854,0.35,2.44000,15916.0,10300,1.54500
+1997,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.806,0.35,2.30286,14101.0,10300,1.36900
+1998,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.957,0.35,2.73429,12590.0,10300,1.22200
+1999,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.872,0.35,2.49143,10985.0,10300,1.06700
+2000,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.76,0.35,2.17143,7673.0,10300,0.74500
+2001,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.755,0.35,2.15714,8590.0,10300,0.83400
+2002,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.856,0.35,2.44571,10858.0,10300,1.05400
+2003,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.942,0.35,2.69143,8873.0,10300,0.86100
+2004,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.958,0.35,2.73714,4641.0,10300,0.45100
+2005,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.99,0.35,2.82857,3397.0,10300,0.33000
+2006,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.832,0.35,2.37714,3769.0,10300,0.36600
+2007,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.834,0.35,2.38286,5121.0,10300,0.49700
+2008,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.758,0.35,2.16571,5455.0,10300,0.53000
+2009,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.772,0.35,2.20571,5092.0,10300,0.49400
+2010,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.558,0.35,1.59429,4956.0,10300,0.48100
+2011,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.493,0.35,1.40857,9064.0,10300,0.88000
+2012,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.689,0.35,1.96857,13628.0,10300,1.32300
+2013,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.955,0.35,2.72857,1461.0,10300,0.14200
+2014,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.821,0.35,2.34571,7711.0,10300,0.74900
+2015,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.628,0.35,1.79429,537.0,10300,0.05200
+2016,Celtic Seas,Celtic Sea,cod,Celtic Sea_cod,0.439,0.35,1.25429,3385.0,10300,0.32900
+1991,Celtic Seas,Rockall,haddock,Rockall_haddock,0.74575,0.2,3.72875,15060.0,10200,1.47600
+1992,Celtic Seas,Rockall,haddock,Rockall_haddock,0.851075,0.2,4.25538,18053.0,10200,1.77000
+1993,Celtic Seas,Rockall,haddock,Rockall_haddock,0.65075,0.2,3.25375,19143.0,10200,1.87700
+1994,Celtic Seas,Rockall,haddock,Rockall_haddock,0.61715,0.2,3.08575,23482.0,10200,2.30200
+1995,Celtic Seas,Rockall,haddock,Rockall_haddock,0.630275,0.2,3.15138,28765.0,10200,2.82000
+1996,Celtic Seas,Rockall,haddock,Rockall_haddock,0.5782,0.2,2.89100,24909.0,10200,2.44200
+1997,Celtic Seas,Rockall,haddock,Rockall_haddock,0.39495,0.2,1.97475,21544.0,10200,2.11200
+1998,Celtic Seas,Rockall,haddock,Rockall_haddock,0.596075,0.2,2.98038,20832.0,10200,2.04200
+1999,Celtic Seas,Rockall,haddock,Rockall_haddock,0.86765,0.2,4.33825,16154.0,10200,1.58400
+2000,Celtic Seas,Rockall,haddock,Rockall_haddock,1.12455,0.2,5.62275,11520.0,10200,1.12900
+2001,Celtic Seas,Rockall,haddock,Rockall_haddock,0.4422,0.2,2.21100,6476.0,10200,0.63500
+2002,Celtic Seas,Rockall,haddock,Rockall_haddock,0.493275,0.2,2.46638,6752.0,10200,0.66200
+2003,Celtic Seas,Rockall,haddock,Rockall_haddock,0.716525,0.2,3.58263,13160.0,10200,1.29000
+2004,Celtic Seas,Rockall,haddock,Rockall_haddock,0.714825,0.2,3.57413,15614.0,10200,1.53100
+2005,Celtic Seas,Rockall,haddock,Rockall_haddock,0.42365,0.2,2.11825,14821.0,10200,1.45300
+2006,Celtic Seas,Rockall,haddock,Rockall_haddock,0.282175,0.2,1.41088,12347.0,10200,1.21000
+2007,Celtic Seas,Rockall,haddock,Rockall_haddock,0.51975,0.2,2.59875,10023.0,10200,0.98300
+2008,Celtic Seas,Rockall,haddock,Rockall_haddock,0.513425,0.2,2.56713,21967.0,10200,2.15400
+2009,Celtic Seas,Rockall,haddock,Rockall_haddock,0.449275,0.2,2.24638,14407.0,10200,1.41200
+2010,Celtic Seas,Rockall,haddock,Rockall_haddock,0.3364,0.2,1.68200,11697.0,10200,1.14700
+2011,Celtic Seas,Rockall,haddock,Rockall_haddock,0.293,0.2,1.46500,6887.0,10200,0.67500
+2012,Celtic Seas,Rockall,haddock,Rockall_haddock,0.173775,0.2,0.86888,6583.0,10200,0.64500
+2013,Celtic Seas,Rockall,haddock,Rockall_haddock,0.09035,0.2,0.45175,3973.0,10200,0.39000
+2014,Celtic Seas,Rockall,haddock,Rockall_haddock,0.63605,0.2,3.18025,2624.0,10200,0.25700
+2015,Celtic Seas,Rockall,haddock,Rockall_haddock,0.42025,0.2,2.10125,14383.0,10200,1.41000
+2016,Celtic Seas,Rockall,haddock,Rockall_haddock,0.1006,0.2,0.50300,17150.0,10200,1.68100
+1993,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,1.088,0.4,2.72000,7482.0,10000,0.74800
+1994,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,1.051,0.4,2.62750,7969.0,10000,0.79700
+1995,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.847,0.4,2.11750,7394.0,10000,0.73900
+1996,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.832,0.4,2.08000,19671.0,10000,1.96700
+1997,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.688,0.4,1.72000,28560.0,10000,2.85600
+1998,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.752,0.4,1.88000,22386.0,10000,2.23900
+1999,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.52,0.4,1.30000,14060.0,10000,1.40600
+2000,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.652,0.4,1.63000,17306.0,10000,1.73100
+2001,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.689,0.4,1.72250,29186.0,10000,2.91900
+2002,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,1.248,0.4,3.12000,36181.0,10000,3.61800
+2003,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.643,0.4,1.60750,25237.0,10000,2.52400
+2004,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.774,0.4,1.93500,43258.0,10000,4.32600
+2005,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.805,0.4,2.01250,29425.0,10000,2.94300
+2006,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.513,0.4,1.28250,23503.0,10000,2.35000
+2007,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.404,0.4,1.01000,24848.0,10000,2.48500
+2008,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.724,0.4,1.81000,23850.0,10000,2.38500
+2009,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.565,0.4,1.41250,36168.0,10000,3.61700
+2010,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.594,0.4,1.48500,37358.0,10000,3.73600
+2011,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.454,0.4,1.13500,85188.0,10000,8.51900
+2012,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.574,0.4,1.43500,68042.0,10000,6.80400
+2013,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.499,0.4,1.24750,40647.0,10000,4.06500
+2014,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.53,0.4,1.32500,24854.0,10000,2.48500
+2015,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.521,0.4,1.30250,38298.0,10000,3.83000
+2016,Celtic Seas,Celtic Sea,haddock,Celtic Sea_haddock,0.674,0.4,1.68500,28251.0,10000,2.82500
+1981,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.59625,0.16,3.72656,7076.0,5825,1.21500
+1982,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.5865,0.16,3.66563,6755.0,5825,1.16000
+1983,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.64425,0.16,4.02656,6074.0,5825,1.04300
+1984,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.566,0.16,3.53750,7682.0,5825,1.31900
+1985,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.55825,0.16,3.48906,8485.0,5825,1.45700
+1986,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.587,0.16,3.66875,9074.0,5825,1.55800
+1987,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.705,0.16,4.40625,8510.0,5825,1.46100
+1988,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.699,0.16,4.36875,7909.0,5825,1.35800
+1989,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.6025,0.16,3.76563,7040.0,5825,1.20900
+1990,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.591,0.16,3.69375,6394.0,5825,1.09800
+1991,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.5885,0.16,3.67813,5121.0,5825,0.87900
+1992,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.7365,0.16,4.60313,5176.0,5825,0.88900
+1993,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.638,0.16,3.98750,4323.0,5825,0.74200
+1994,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.625,0.16,3.90625,4558.0,5825,0.78200
+1995,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.56875,0.16,3.55469,3991.0,5825,0.68500
+1996,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.51325,0.16,3.20781,4308.0,5825,0.74000
+1997,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.51325,0.16,3.20781,4575.0,5825,0.78500
+1998,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.50625,0.16,3.16406,4968.0,5825,0.85300
+1999,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.38975,0.16,2.43594,5740.0,5825,0.98500
+2000,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.317,0.16,1.98125,6317.0,5825,1.08400
+2001,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.2745,0.16,1.71563,7669.0,5825,1.31700
+2002,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.23575,0.16,1.47344,9145.0,5825,1.57000
+2003,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.192,0.16,1.20000,10989.0,5825,1.88700
+2004,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.13975,0.16,0.87344,11125.0,5825,1.91000
+2005,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.1865,0.16,1.16563,10790.0,5825,1.85200
+2006,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.20175,0.16,1.26094,9642.0,5825,1.65500
+2007,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.22425,0.16,1.40156,7965.0,5825,1.36700
+2008,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.1715,0.16,1.07188,7980.0,5825,1.37000
+2009,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.12375,0.16,0.77344,9099.0,5825,1.56200
+2010,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.194,0.16,1.21250,9080.0,5825,1.55900
+2011,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.11925,0.16,0.74531,10765.0,5825,1.84800
+2012,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.12725,0.16,0.79531,9067.0,5825,1.55700
+2013,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.08175,0.16,0.51094,10989.0,5825,1.88700
+2014,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.088,0.16,0.55000,11204.0,5825,1.92300
+2015,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.05625,0.16,0.35156,15234.0,5825,2.61500
+2016,Celtic Seas,Irish Sea,plaice,Irish Sea_plaice,0.0475,0.16,0.29688,22686.0,5825,3.89500
+1980,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.51625,0.24,2.15104,NA,2443,NA
+1981,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.438,0.24,1.82500,NA,2443,NA
+1982,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.5285,0.24,2.20208,NA,2443,NA
+1983,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.54925,0.24,2.28854,NA,2443,NA
+1984,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.52725,0.24,2.19688,NA,2443,NA
+1985,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.50075,0.24,2.08646,NA,2443,NA
+1986,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.485,0.24,2.02083,NA,2443,NA
+1987,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.6025,0.24,2.51042,NA,2443,NA
+1988,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.46925,0.24,1.95521,NA,2443,NA
+1989,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.60975,0.24,2.54063,NA,2443,NA
+1990,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.619,0.24,2.57917,NA,2443,NA
+1991,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.60225,0.24,2.50938,NA,2443,NA
+1992,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.639,0.24,2.66250,NA,2443,NA
+1993,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.5925,0.24,2.46875,NA,2443,NA
+1994,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.59225,0.24,2.46771,NA,2443,NA
+1995,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.59175,0.24,2.46563,NA,2443,NA
+1996,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.586,0.24,2.44167,NA,2443,NA
+1997,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.622,0.24,2.59167,NA,2443,NA
+1998,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.52425,0.24,2.18438,NA,2443,NA
+1999,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.53425,0.24,2.22604,NA,2443,NA
+2000,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.5395,0.24,2.24792,NA,2443,NA
+2001,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.51975,0.24,2.16563,NA,2443,NA
+2002,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.6165,0.24,2.56875,NA,2443,NA
+2003,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.53925,0.24,2.24688,NA,2443,NA
+2004,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.60375,0.24,2.51563,NA,2443,NA
+2005,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.57625,0.24,2.40104,NA,2443,NA
+2006,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.59525,0.24,2.48021,NA,2443,NA
+2007,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.68225,0.24,2.84271,NA,2443,NA
+2008,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.581,0.24,2.42083,NA,2443,NA
+2009,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.3565,0.24,1.48542,NA,2443,NA
+2010,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.39675,0.24,1.65313,NA,2443,NA
+2011,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.3065,0.24,1.27708,NA,2443,NA
+2012,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.34375,0.24,1.43229,NA,2443,NA
+2013,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.246,0.24,1.02500,NA,2443,NA
+2014,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.2285,0.24,0.95208,NA,2443,NA
+2015,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.161,0.24,0.67083,NA,2443,NA
+2016,Celtic Seas,Western Channel,plaice,Western Channel_plaice,0.237,0.24,0.98750,NA,2443,NA
+1969,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.133857143,0.29,0.46158,2437.0,2900,0.84000
+1970,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.145714286,0.29,0.50246,2652.0,2900,0.91400
+1971,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.180428571,0.29,0.62217,2390.0,2900,0.82400
+1972,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.138285714,0.29,0.47685,2395.0,2900,0.82600
+1973,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.159571429,0.29,0.55025,2778.0,2900,0.95800
+1974,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.152857143,0.29,0.52709,2896.0,2900,0.99900
+1975,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.130571429,0.29,0.45025,3670.0,2900,1.26600
+1976,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.180571429,0.29,0.62266,3403.0,2900,1.17300
+1977,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.130428571,0.29,0.44975,4098.0,2900,1.41300
+1978,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.177857143,0.29,0.61330,4074.0,2900,1.40500
+1979,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.242285714,0.29,0.83547,4865.0,2900,1.67800
+1980,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.232428571,0.29,0.80148,5338.0,2900,1.84100
+1981,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.270142857,0.29,0.93153,4572.0,2900,1.57700
+1982,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.320714286,0.29,1.10591,4575.0,2900,1.57800
+1983,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.363285714,0.29,1.25271,4374.0,2900,1.50800
+1984,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.300142857,0.29,1.03498,4430.0,2900,1.52800
+1985,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.328714286,0.29,1.13350,4009.0,2900,1.38200
+1986,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.310428571,0.29,1.07044,4014.0,2900,1.38400
+1987,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.288428571,0.29,0.99458,4112.0,2900,1.41800
+1988,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.333142857,0.29,1.14877,4044.0,2900,1.39400
+1989,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.409285714,0.29,1.41133,3443.0,2900,1.18700
+1990,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.403428571,0.29,1.39113,3288.0,2900,1.13400
+1991,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.272571429,0.29,0.93990,2993.0,2900,1.03200
+1992,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.244,0.29,0.84138,2940.0,2900,1.01400
+1993,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.312,0.29,1.07586,2814.0,2900,0.97000
+1994,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.230285714,0.29,0.79409,3058.0,2900,1.05400
+1995,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.295571429,0.29,1.01921,3073.0,2900,1.06000
+1996,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.264428571,0.29,0.91182,3059.0,2900,1.05500
+1997,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.318,0.29,1.09655,2928.0,2900,1.01000
+1998,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.295,0.29,1.01724,2927.0,2900,1.00900
+1999,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.321714286,0.29,1.10936,2859.0,2900,0.98600
+2000,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.305571429,0.29,1.05369,2912.0,2900,1.00400
+2001,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.343428571,0.29,1.18424,2957.0,2900,1.02000
+2002,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.334285714,0.29,1.15271,3097.0,2900,1.06800
+2003,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.246571429,0.29,0.85025,3388.0,2900,1.16800
+2004,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.291571429,0.29,1.00542,3200.0,2900,1.10300
+2005,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.321,0.29,1.10690,3279.0,2900,1.13100
+2006,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.333571429,0.29,1.15025,2888.0,2900,0.99600
+2007,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.342857143,0.29,1.18227,2951.0,2900,1.01800
+2008,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.311714286,0.29,1.07488,2825.0,2900,0.97400
+2009,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.207571429,0.29,0.71576,3224.0,2900,1.11200
+2010,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.199428571,0.29,0.68768,3622.0,2900,1.24900
+2011,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.196142857,0.29,0.67635,3730.0,2900,1.28600
+2012,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.218571429,0.29,0.75369,3960.0,2900,1.36600
+2013,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.224714286,0.29,0.77488,3854.0,2900,1.32900
+2014,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.206714286,0.29,0.71281,4114.0,2900,1.41900
+2015,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.192428571,0.29,0.66355,4097.0,2900,1.41300
+2016,Celtic Seas,Celtic Sea 7.e.,sole,Celtic Sea 7.e._sole,0.214857143,0.29,0.74089,4522.0,2900,1.55900
+1970,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.39005,0.2,1.95025,6436.0,3100,2.07600
+1971,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.440375,0.2,2.20188,6222.0,3100,2.00700
+1972,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.450775,0.2,2.25388,5011.0,3100,1.61600
+1973,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.429975,0.2,2.14988,5123.0,3100,1.65300
+1974,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.44425,0.2,2.22125,5068.0,3100,1.63500
+1975,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.3953,0.2,1.97650,5359.0,3100,1.72900
+1976,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.427025,0.2,2.13513,4889.0,3100,1.57700
+1977,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.36955,0.2,1.84775,4490.0,3100,1.44800
+1978,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.3575,0.2,1.78750,5092.0,3100,1.64300
+1979,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.4746,0.2,2.37300,5685.0,3100,1.83400
+1980,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.6372,0.2,3.18600,5514.0,3100,1.77900
+1981,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.481225,0.2,2.40613,5166.0,3100,1.66600
+1982,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.440975,0.2,2.20488,4332.0,3100,1.39700
+1983,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.436125,0.2,2.18063,4097.0,3100,1.32200
+1984,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.351825,0.2,1.75913,4606.0,3100,1.48600
+1985,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.336075,0.2,1.68038,5645.0,3100,1.82100
+1986,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.43685,0.2,2.18425,6961.0,3100,2.24500
+1987,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.860125,0.2,4.30063,7173.0,3100,2.31400
+1988,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.687225,0.2,3.43613,5528.0,3100,1.78300
+1989,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.57395,0.2,2.86975,4644.0,3100,1.49800
+1990,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.6508,0.2,3.25400,3640.0,3100,1.17400
+1991,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.50015,0.2,2.50075,3200.0,3100,1.03200
+1992,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.525,0.2,2.62500,3462.0,3100,1.11700
+1993,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.55005,0.2,2.75025,3243.0,3100,1.04600
+1994,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.488275,0.2,2.44138,4067.0,3100,1.31200
+1995,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.502125,0.2,2.51063,3537.0,3100,1.14100
+1996,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.518225,0.2,2.59113,2725.0,3100,0.87900
+1997,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.58915,0.2,2.94575,2511.0,3100,0.81000
+1998,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.491325,0.2,2.45663,3042.0,3100,0.98100
+1999,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.466325,0.2,2.33163,3338.0,3100,1.07700
+2000,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.452775,0.2,2.26388,3140.0,3100,1.01300
+2001,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.34435,0.2,1.72175,3584.0,3100,1.15600
+2002,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.377675,0.2,1.88838,3600.0,3100,1.16100
+2003,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.35575,0.2,1.77875,3239.0,3100,1.04500
+2004,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.3095,0.2,1.54750,2314.0,3100,0.74600
+2005,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.548375,0.2,2.74188,2087.0,3100,0.67300
+2006,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.46265,0.2,2.31325,1650.0,3100,0.53200
+2007,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.33335,0.2,1.66675,1405.0,3100,0.45300
+2008,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.3098,0.2,1.54900,1343.0,3100,0.43300
+2009,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.380375,0.2,1.90188,1087.0,3100,0.35100
+2010,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.285625,0.2,1.42813,1212.0,3100,0.39100
+2011,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.34515,0.2,1.72575,1109.0,3100,0.35800
+2012,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.295325,0.2,1.47663,1181.0,3100,0.38100
+2013,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.1643,0.2,0.82150,1125.0,3100,0.36300
+2014,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.11375,0.2,0.56875,916.0,3100,0.29500
+2015,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.07035,0.2,0.35175,1374.0,3100,0.44300
+2016,Celtic Seas,Irish Sea,sole,Irish Sea_sole,0.034175,0.2,0.17088,1333.0,3100,0.43000
+1971,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.38036,0.2,1.90180,7540.0,2380,3.16800
+1972,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.28068,0.2,1.40340,5939.0,2380,2.49500
+1973,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.24294,0.2,1.21470,4994.0,2380,2.09800
+1974,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.24524,0.2,1.22620,5266.0,2380,2.21300
+1975,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.20832,0.2,1.04160,4684.0,2380,1.96800
+1976,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.37988,0.2,1.89940,4050.0,2380,1.70200
+1977,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.26128,0.2,1.30640,4417.0,2380,1.85600
+1978,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.19668,0.2,0.98340,3511.0,2380,1.47500
+1979,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.27978,0.2,1.39890,3629.0,2380,1.52500
+1980,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.30278,0.2,1.51390,3783.0,2380,1.58900
+1981,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.36042,0.2,1.80210,3242.0,2380,1.36200
+1982,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.3458,0.2,1.72900,3350.0,2380,1.40800
+1983,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.4562,0.2,2.28100,3492.0,2380,1.46700
+1984,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.4115,0.2,2.05750,3750.0,2380,1.57600
+1985,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.4381,0.2,2.19050,3188.0,2380,1.33900
+1986,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.54306,0.2,2.71530,3240.0,2380,1.36100
+1987,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.57324,0.2,2.86620,2429.0,2380,1.02100
+1988,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.5641,0.2,2.82050,2599.0,2380,1.09200
+1989,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.53578,0.2,2.67890,2032.0,2380,0.85400
+1990,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.6645,0.2,3.32250,2313.0,2380,0.97200
+1991,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.48686,0.2,2.43430,2031.0,2380,0.85300
+1992,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.40216,0.2,2.01080,2352.0,2380,0.98800
+1993,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.4579,0.2,2.28950,2426.0,2380,1.01900
+1994,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.51824,0.2,2.59120,2208.0,2380,0.92800
+1995,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.64056,0.2,3.20280,2125.0,2380,0.89300
+1996,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.55208,0.2,2.76040,2071.0,2380,0.87000
+1997,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.63274,0.2,3.16370,1852.0,2380,0.77800
+1998,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.61826,0.2,3.09130,1664.0,2380,0.69900
+1999,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.5252,0.2,2.62600,1859.0,2380,0.78100
+2000,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.33538,0.2,1.67690,1966.0,2380,0.82600
+2001,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.41596,0.2,2.07980,3124.0,2380,1.31300
+2002,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.44758,0.2,2.23790,4043.0,2380,1.69900
+2003,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.64696,0.2,3.23480,3720.0,2380,1.56300
+2004,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.45622,0.2,2.28110,3277.0,2380,1.37700
+2005,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.3799,0.2,1.89950,3137.0,2380,1.31800
+2006,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.28228,0.2,1.41140,2687.0,2380,1.12900
+2007,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.33584,0.2,1.67920,2806.0,2380,1.17900
+2008,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.31702,0.2,1.58510,2529.0,2380,1.06300
+2009,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.27384,0.2,1.36920,2857.0,2380,1.20000
+2010,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.30752,0.2,1.53760,3098.0,2380,1.30200
+2011,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.32838,0.2,1.64190,3290.0,2380,1.38200
+2012,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.41688,0.2,2.08440,3176.0,2380,1.33400
+2013,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.40648,0.2,2.03240,2735.0,2380,1.14900
+2014,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.43502,0.2,2.17510,2689.0,2380,1.13000
+2015,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.33014,0.2,1.65070,2561.0,2380,1.07600
+2016,Celtic Seas,Celtic Sea 7.f.g.,sole,Celtic Sea 7.f.g._sole,0.3705,0.2,1.85250,2525.0,2380,1.06100
+1981,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.223233333,0.23,0.97058,134374.0,44600,3.01300
+1982,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.251,0.23,1.09130,91982.0,44600,2.06200
+1983,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.4178,0.23,1.81652,63151.0,44600,1.41600
+1984,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.538766667,0.23,2.34246,46166.0,44600,1.03500
+1985,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.620966667,0.23,2.69986,42190.0,44600,0.94600
+1986,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.480366667,0.23,2.08855,38125.0,44600,0.85500
+1987,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.576833333,0.23,2.50797,40521.0,44600,0.90900
+1988,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.677766667,0.23,2.94681,41384.0,44600,0.92800
+1989,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.601433333,0.23,2.61493,22598.0,44600,0.50700
+1990,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.4323,0.23,1.87957,33375.0,44600,0.74800
+1991,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.440766667,0.23,1.91638,27425.0,44600,0.61500
+1992,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.4252,0.23,1.84870,30535.0,44600,0.68500
+1993,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.448933333,0.23,1.95188,43537.0,44600,0.97600
+1994,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.3982,0.23,1.73130,38416.0,44600,0.86100
+1995,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.447,0.23,1.94348,38772.0,44600,0.86900
+1996,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.554166667,0.23,2.40942,42621.0,44600,0.95600
+1997,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.6107,0.23,2.65522,34352.0,44600,0.77000
+1998,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.685033333,0.23,2.97841,24978.0,44600,0.56000
+1999,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.838466667,0.23,3.64551,23285.0,44600,0.52200
+2000,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.818633333,0.23,3.55928,17871.0,44600,0.40100
+2001,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.756433333,0.23,3.28884,20099.0,44600,0.45100
+2002,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.5486,0.23,2.38522,13924.0,44600,0.31200
+2003,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.575866667,0.23,2.50377,8358.0,44600,0.18700
+2004,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.6083,0.23,2.64478,5952.0,44600,0.13300
+2005,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.492666667,0.23,2.14203,3778.0,44600,0.08500
+2006,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.4147,0.23,1.80304,3427.0,44600,0.07700
+2007,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.330733333,0.23,1.43797,3378.0,44600,0.07600
+2008,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.365766667,0.23,1.59029,2915.0,44600,0.06500
+2009,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.314333333,0.23,1.36667,3264.0,44600,0.07300
+2010,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.233566667,0.23,1.01551,2671.0,44600,0.06000
+2011,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.144033333,0.23,0.62623,5678.0,44600,0.12700
+2012,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.128166667,0.23,0.55725,5525.0,44600,0.12400
+2013,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.095366667,0.23,0.41464,6558.0,44600,0.14700
+2014,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.072033333,0.23,0.31319,6434.0,44600,0.14400
+2015,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.0669,0.23,0.29087,7713.0,44600,0.17300
+2016,Celtic Seas,Celtic Sea 27.6.a.,whiting,Celtic Sea 27.6.a._whiting,0.052066667,0.23,0.22638,15907.0,44600,0.35700
+1980,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.372333333,0.22,1.69242,32629.4,16300,2.00200
+1981,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.445666667,0.22,2.02576,43090.4,16300,2.64400
+1982,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.492666667,0.22,2.23939,34578.5,16300,2.12100
+1983,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.500666667,0.22,2.27576,21952.6,16300,1.34700
+1984,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.614,0.22,2.79091,14972.8,16300,0.91900
+1985,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.745333333,0.22,3.38788,22714.5,16300,1.39400
+1986,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.58,0.22,2.63636,18153.8,16300,1.11400
+1987,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.615666667,0.22,2.79848,16162.9,16300,0.99200
+1988,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.522,0.22,2.37273,20448.6,16300,1.25500
+1989,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.731666667,0.22,3.32576,16984.1,16300,1.04200
+1990,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.620666667,0.22,2.82121,12680.9,16300,0.77800
+1991,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.622,0.22,2.82727,13791.4,16300,0.84600
+1992,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,1.006,0.22,4.57273,11895.3,16300,0.73000
+1993,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.797666667,0.22,3.62576,9982.1,16300,0.61200
+1994,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.825333333,0.22,3.75152,5758.4,16300,0.35300
+1995,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.806333333,0.22,3.66515,4138.9,16300,0.25400
+1996,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.880666667,0.22,4.00303,2890.7,16300,0.17700
+1997,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.767,0.22,3.48636,3121.0,16300,0.19100
+1998,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,1.07,0.22,4.86364,2584.5,16300,0.15900
+1999,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.845333333,0.22,3.84242,1558.8,16300,0.09600
+2000,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,1.104333333,0.22,5.01970,1515.7,16300,0.09300
+2001,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.895,0.22,4.06818,1338.5,16300,0.08200
+2002,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,1.218666667,0.22,5.53939,1191.5,16300,0.07300
+2003,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.606333333,0.22,2.75606,1205.5,16300,0.07400
+2004,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,1.672333333,0.22,7.60152,1278.0,16300,0.07800
+2005,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.438333333,0.22,1.99242,550.9,16300,0.03400
+2006,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,1.495,0.22,6.79545,1086.2,16300,0.06700
+2007,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,1.176666667,0.22,5.34848,587.2,16300,0.03600
+2008,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.950666667,0.22,4.32121,729.9,16300,0.04500
+2009,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,1.079666667,0.22,4.90758,743.2,16300,0.04600
+2010,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,1.119666667,0.22,5.08939,830.3,16300,0.05100
+2011,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.842333333,0.22,3.82879,620.3,16300,0.03800
+2012,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,1.109333333,0.22,5.04242,689.9,16300,0.04200
+2013,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.637666667,0.22,2.89848,845.3,16300,0.05200
+2014,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,1.434333333,0.22,6.51970,956.5,16300,0.05900
+2015,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.900333333,0.22,4.09242,707.6,16300,0.04300
+2016,Celtic Seas,Celtic Sea 7.a.,whiting,Celtic Sea 7.a._whiting,0.567,0.22,2.57727,1134.1,16300,0.07000
