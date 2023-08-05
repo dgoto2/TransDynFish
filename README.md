@@ -3,12 +3,19 @@ This repository contains the data and code used in Transient demographic dynamic
 
 File list
 data (folder)
+
 model.out (folder)
+
 `1.preprocess.climate.data.R`
+
 `2.calculate_demographic.param.R`
+
 `3.preprocess.data_gamm.R`
+
 `4.fit.model_gamm_regionwide.R` 
+
 `5.fit.model_gamm_ecoregion.R`
+
 `propagate_param.est.uncertainty.R`
 
 Description
