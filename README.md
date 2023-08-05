@@ -1,7 +1,8 @@
 ### TransDynFish
 This repository contains the data and code used in Transient demographic dynamics of recovering fish populations shaped by past climate variability, harvest, and management.
 
-File list
+#### File list
+
 data (folder)
 
 model.out (folder)
@@ -18,7 +19,9 @@ model.out (folder)
 
 `propagate_param.est.uncertainty.R`
 
-Description
+
+#### Description
+
 data: This folder contains data and derived parameter files
 
 model.out: This folder for model output files
