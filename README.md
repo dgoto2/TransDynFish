@@ -1,5 +1,5 @@
 ### TransDynFish
-This repository contains the data and code used in "[Transient demographic dynamics of recovering fish populations shaped by past climate variability, harvest, and management](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16922)". The analysis was performed to explore how time-varying local and regional climate conditions contribute to the transient dynamics of recovering fish populations exposed to variable fishing pressures by applying a multilevel (hierarchical) modeling approach to demographic metrics of 38 stocks comprising 11 species across seven northeast Atlantic ecoregions.
+This repository contains the data and code used in "[Transient demographic dynamics of recovering fish populations shaped by past climate variability, harvest, and management](https://onlinelibrary.wiley.com/share/author/TVMKQ4TZMV4WDEGCJ267?target=10.1111/gcb.16922)". The analysis was performed to explore how time-varying local and regional climate conditions contribute to the transient dynamics of recovering fish populations exposed to variable fishing pressures by applying a multilevel (hierarchical) modeling approach to demographic metrics of 38 stocks comprising 11 species across seven northeast Atlantic ecoregions.
 
 <img src="https://github.com/dgoto2/TransDynFish/blob/main/graphic.abstract.gcb.png?raw=true" width="700"> 
 
