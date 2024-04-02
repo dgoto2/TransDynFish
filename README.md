@@ -3,6 +3,10 @@ This repository contains the data and code used in "[Transient demographic dynam
 
 <img src="https://github.com/dgoto2/TransDynFish/blob/main/graphic.abstract.gcb.png?raw=true" width="700"> 
 
+##### Time series of the transient population growth rates of 36 northeast Atlantic fish stocks during 1946–2016. Red lines indicate transient growths computed from age-specific abundance and demographic rate estimates taken from the International Council for the Exploration of the Sea (ICES) 2017 stock assessment reports. Blue lines indicate transient growth rates computed from 1000 simulated datasets with Gaussian noise added to recruit numbers and fishing mortality rates, which is based on stock- and year-specific standard deviation. 
+<img src="https://github.com/dgoto2/TransDynFish/blob/main/transient.growth_uncertainty.png?raw=true" width="700"> 
+
+
 #### File list
 
 data (folder)
